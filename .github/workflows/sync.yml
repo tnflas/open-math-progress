@@ -51,9 +51,32 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A -- data/ docs/ problems/
-          if ! git diff --cached --quiet; then
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+
+            python scripts/community_ingest.py
+            python scripts/core.py all
+            python scripts/core.py validate
+            python scripts/publish_all.py
+
+            git add -A -- data/ docs/ problems/
+
+            if git diff --cached --quiet; then
+              echo "No changes to publish"
+              exit 0
+            fi
+
             git commit -m "chore: publish unified mathematical research index"
-            git pull --rebase origin main
-            git push origin main
-          fi
+
+            if git push origin HEAD:main; then
+              echo "Publish completed"
+              exit 0
+            fi
+
+            echo "Remote changed; retrying with fresh data"
+          done
+
+          echo "Publishing failed after three attempts"
+          exit 1
