@@ -1,4 +1,5 @@
 """Standard-library-only GitHub indexer. Records source claims, never mathematical truth."""
+from readme_adapter import collect_readme_index
 import argparse, datetime as dt, hashlib, json, os, re, sys, time
 from pathlib import Path
 from urllib.parse import quote, urlsplit, urlunsplit
@@ -64,10 +65,10 @@ def ingest(items,problems,claims,stamp):
   if key not in ci:
    if pid not in pi:
     p={'id':pid,'title':x['title'][:500],'canonical_status':'not_assessed','potential_duplicates':[]};problems.append(p);pi[pid]=p
-   c={'id':key,'problem_id':pid,'source':{'url':url,'repository':x['repository'],'reported_status':st,'first_observed':stamp,'last_observed':stamp,'source_updated_at':x.get('source_updated_at')},'verification':{'independent_check':'not_assessed'},'ai_involvement':x.get('ai_involvement','unknown'),'status_history':[{'status':st,'observed_at':stamp}]}
+   c={'id':key,'problem_id':pid,'source':{'url':url,'repository':x['repository'],'reported_status':st,'first_observed':stamp,'last_observed':stamp,'source_updated_at':x.get('source_updated_at')},'verification':{'independent_check':'not_assessed'},'ai_involvement':x.get('ai_involvement','unknown'),'reported_outcome':x.get('reported_outcome'),'reported_evidence':x.get('reported_evidence'),'status_history':[{'status':st,'observed_at':stamp}]}
    claims.append(c);ci[key]=c
   else:
-   c=ci[key];src=c['source']
+   c=ci[key];src=c['source'];c['reported_outcome']=x.get('reported_outcome',c.get('reported_outcome'));c['reported_evidence']=x.get('reported_evidence',c.get('reported_evidence'))
    if src['reported_status']!=st:
     c['status_history'].append({'status':st,'observed_at':stamp});src['reported_status']=st
    src['last_observed']=stamp;src['source_updated_at']=x.get('source_updated_at')
@@ -149,9 +150,9 @@ def sync():
  for s in sources:
   if not s.get('enabled',True):continue
   try:
-   if s.get('mode')!='issues':
+   if s.get('mode') not in ('issues', 'readme_index'):
     print('SKIP unsupported adapter',s['repo']);continue
-   incoming=collect_issues(s,token);ingest(incoming,problems,claims,stamp);success+=1
+   incoming=(collect_readme_index(s,token) if s.get('mode')=='readme_index' else collect_issues(s,token));ingest(incoming,problems,claims,stamp);success+=1
    print('SYNC',s['repo'],len(incoming))
   except Exception as e:failed.append(f'{s["repo"]}: {e}');print('ERROR',failed[-1],file=sys.stderr)
  if success:

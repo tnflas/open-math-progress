@@ -1,1 +1,410 @@
-[]
+[
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-241ded3d7fdf5d63",
+    "problem_id": "OMP-241ded3d7fdf5d63",
+    "reported_evidence": "— refuted · spectral graph theory · open (unspecified) — one-shotted with **Sol 5.6 Ultra** (Pedro Lirón de Robles), counterexample images posted with a \"can someone check\" request. *Verify:* under review. 2026-07-24 · [announce](https://x.com/pedroldrh/status/2080413533301243988)",
+    "reported_outcome": "refuted",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://x.com/pedroldrh/status/2080413533301243988"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-5f293d7e1673d34b",
+    "problem_id": "OMP-5f293d7e1673d34b",
+    "reported_evidence": "— refuted · graph theory · open ~6 days — **GPT-5.6 Pro** found a 9-vertex counterexample (zdmg 9 > 4·dmg 8) with code and an exact verifier (bax). *Verify:* author-only. 2026-07-24 · [announce](https://x.com/mightbebax/status/2080401361896718615)",
+    "reported_outcome": "refuted",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://x.com/mightbebax/status/2080401361896718615"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-0ec0dd20ea6ed3b4",
+    "problem_id": "OMP-0ec0dd20ea6ed3b4",
+    "reported_evidence": "— proved *(claimed)* · combinatorics (fixed-perimeter partitions) · very recent (2026 paper) — **GPT-5.6 Pro** autonomously picked and claimed a proof (FO/FD ratio → 0) after self-critique + 7.3M checks; Holter says \"no clue if correct.\" *Verify:* author-only, under review. 2026-07-23 · [announce](https://x.com/AdamHoltererer/status/2080264704530764033)",
+    "reported_outcome": "proved",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://github.com/bonninr/awesome-ai-solved-math/blob/main/entries/holter-batch.md"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-f32879508f6f0111",
+    "problem_id": "OMP-f32879508f6f0111",
+    "reported_evidence": "— refuted · spectral graph theory · open ~30 yr — **Capy** (Grok 4.5) refuted it in 8 min with the Hoffman–Singleton graph as witness, adversarially reviewed (Justin Sun). *Verify:* independent. 2026-07-23 · [announce](https://x.com/justinsunyt/status/2080116559352316409) · [traces](https://tokiwa.space/f/more-front-minute.pdf)",
+    "reported_outcome": "refuted",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://github.com/bonninr/awesome-ai-solved-math/blob/main/entries/graffiti-284.md"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-aaab2e6e51396bd4",
+    "problem_id": "OMP-aaab2e6e51396bd4",
+    "reported_evidence": "— proved · spectral graph theory · open ~40 yr — same four-step argument gives `dev(D) ≤ n⁻(G)`; Lean 4, axioms audited (**Devin**). *Verify:* Lean 4, independent. 2026-07-23 · [announce](https://x.com/imjaredz/status/2080088341262033273) · [proof](https://github.com/jzone3/solving-math-problems/blob/main/solutions/P08/PROOF.md)",
+    "reported_outcome": "proved",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://github.com/bonninr/awesome-ai-solved-math/blob/main/entries/graffiti-39-40.md"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-df67c7d16a1b4a42",
+    "problem_id": "OMP-df67c7d16a1b4a42",
+    "reported_evidence": "— proved · spectral graph theory · open decades — **Devin** proved `s⁻(G) ≤ R(G)` (Rayleigh + Cauchy–Schwarz + AM–GM), crediting 1993 ingredient lemmas; Lean 4. *Verify:* Lean 4, independent. 2026-07-23 · [announce](https://x.com/imjaredz/status/2080378963831005692) · [proof](https://github.com/jzone3/solving-math-problems/blob/main/solutions/P06/PROOF-698.md)",
+    "reported_outcome": "proved",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://github.com/bonninr/awesome-ai-solved-math/blob/main/entries/graffiti-698.md"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-a2816b9e95f927e6",
+    "problem_id": "OMP-a2816b9e95f927e6",
+    "reported_evidence": "— refuted · spectral graph theory · open ~40 yr — refuted with a dumbbell graph (exact-arithmetic verifier; Lean left partial for irrational eigenvalues); also scooped by demonstrandum-research (**Devin**). *Verify:* independent, scooped. 2026-07-23 · [priority](https://github.com/jzone3/solving-math-problems/blob/main/solutions/P07/PRIORITY.md)",
+    "reported_outcome": "refuted",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://github.com/bonninr/awesome-ai-solved-math/blob/main/entries/graffiti-154.md"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-2025fff390855df4",
+    "problem_id": "OMP-2025fff390855df4",
+    "reported_evidence": "— proved · automata / combinatorics · open (special case) — reset-length bound proved via a linear-algebra argument from **OpenAI Codex (GPT-5.6 Sol)**, author-verified (Yinfeng Zhu). *Verify:* arXiv, author-verified. 2026-07-23 · [arXiv:2607.19675](https://arxiv.org/abs/2607.19675)",
+    "reported_outcome": "proved",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://arxiv.org/abs/2607.19675"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-10bdfbca27018630",
+    "problem_id": "OMP-10bdfbca27018630",
+    "reported_evidence": "— nonexistence · design theory · smallest open case — **Devin** proved it doesn't exist three independent ways (kissat/DRAT, CP-SAT, exhaustive DFS); LRAT checked inside Lean. *Verify:* DRAT, Lean 4, independent. 2026-07-22 · [announce](https://x.com/imjaredz/status/2080378963831005692) · [solution](https://github.com/jzone3/solving-math-problems/tree/main/solutions/P13)",
+    "reported_outcome": "nonexistence",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://github.com/bonninr/awesome-ai-solved-math/blob/main/entries/perfect-mendelsohn-9-6-1.md"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-bdc30577a9490585",
+    "problem_id": "OMP-bdc30577a9490585",
+    "reported_evidence": "— nonexistence · design theory · survived CPro1 — **Devin** proved nonexistence with two independent CP-SAT models + DRAT proof. *Verify:* DRAT, independent. 2026-07-22 · [solution](https://github.com/jzone3/solving-math-problems/tree/main/solutions/P14)",
+    "reported_outcome": "nonexistence",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://github.com/bonninr/awesome-ai-solved-math/blob/main/entries/balanced-ternary-designs.md"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-9a0b7da0504f9f31",
+    "problem_id": "OMP-9a0b7da0504f9f31",
+    "reported_evidence": "— proved *(claimed)* · number theory / combinatorics · long-open — **GPT-5.6 Sol** (Wang), with a large (3,000+ file) Lean project. *Verify:* Lean (author), under review. 2026-07-22 · [folder](https://github.com/ShouqiaoW/erdos/tree/main/1038)",
+    "reported_outcome": "proved",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://github.com/bonninr/awesome-ai-solved-math/blob/main/entries/erdos-wang-batch.md"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-b059f69448cb7b17",
+    "problem_id": "OMP-b059f69448cb7b17",
+    "reported_evidence": "— refuted · combinatorial optimization / flows · open ~30 yr — **GPT-5.6 Pro** found a graph where fractional flow costs 58 but any bounded-violation unsplittable flow costs ≥60 (Dmitry Rybin). *Verify:* author-only. 2026-07-22 · [announce](https://x.com/DmitryRybin1/status/2079904005652893709) · [chat](https://chatgpt.com/share/6a60b2eb-0b64-83ee-9c76-7931ca1de063)",
+    "reported_outcome": "refuted",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://github.com/bonninr/awesome-ai-solved-math/blob/main/entries/dinitz-garg-goemans.md"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-ff2fe30e399a1317",
+    "problem_id": "OMP-ff2fe30e399a1317",
+    "reported_evidence": "— proved · probability / statistics · open since 2014 — strong log-concavity of the Chernoff density, with the entire proof reportedly generated by **GPT-5.6 Sol** (Xianyang Zhang, Quan Zhou). *Verify:* arXiv. 2026-07-22 · [arXiv:2607.18619](https://arxiv.org/abs/2607.18619)",
+    "reported_outcome": "proved",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://arxiv.org/abs/2607.18619"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-8fddf5fef561524e",
+    "problem_id": "OMP-8fddf5fef561524e",
+    "reported_evidence": "— proved · knot theory · open (mod-4 case) — Conway polynomials of amphicheiral knots; **Claude Fable 5** proposed the strategy and drafted the proof, author-verified (Jim Conant). *Verify:* arXiv, author-verified. 2026-07-22 · [arXiv:2607.18655](https://arxiv.org/abs/2607.18655)",
+    "reported_outcome": "proved",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://arxiv.org/abs/2607.18655"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-6cac9d1f1c721b20",
+    "problem_id": "OMP-6cac9d1f1c721b20",
+    "reported_evidence": "— proved · mathematical physics · open aspects — theorem established with substantial help from **GPT-5.6** (Yukun He). *Verify:* arXiv. 2026-07-22 · [arXiv:2607.18998](https://arxiv.org/abs/2607.18998)",
+    "reported_outcome": "proved",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://arxiv.org/abs/2607.18998"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-e7a4026af1aaaac4",
+    "problem_id": "OMP-e7a4026af1aaaac4",
+    "reported_evidence": "— refuted · algebra (Jacobian-adjacent) · open — explicit low-degree counterexamples for all n ≥ 3, prompted by the Jacobian result, via **ChatGPT + Claude** (Christopher D. Long). *Verify:* arXiv. 2026-07-21 · [post](https://x.com/octonion/status/2079385308127166575) · [arXiv:2607.18186](https://arxiv.org/abs/2607.18186)",
+    "reported_outcome": "refuted",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://arxiv.org/abs/2607.18186"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  },
+  {
+    "ai_involvement": "reported",
+    "id": "CLM-9823662a4077118c",
+    "problem_id": "OMP-9823662a4077118c",
+    "reported_evidence": "— claimed refutation, **not yet confirmed** · algebraic geometry · open since 1939 — **Fable** (Anthropic) posted an explicit cubic map of ℂ³ with constant Jacobian det −2 that sends three distinct points to one (Levent Alpöge). The spark of the wave; being scrutinized (not endorsed) by Tao and the Secret Blogging Seminar — an extraordinary claim for a conjecture this old. *Verify:* author-only, under review. 2026-07-20 · [announce](https://x.com/__alpoge__/status/2079028340955197566)",
+    "reported_outcome": "claimed refutation",
+    "source": {
+      "first_observed": "2026-10-20T08:15:35+00:00",
+      "last_observed": "2026-10-20T08:15:35+00:00",
+      "reported_status": "claimed_solved",
+      "repository": "bonninr/awesome-ai-solved-math",
+      "source_updated_at": null,
+      "url": "https://github.com/bonninr/awesome-ai-solved-math/blob/main/entries/jacobian-conjecture.md"
+    },
+    "status_history": [
+      {
+        "observed_at": "2026-10-20T08:15:35+00:00",
+        "status": "claimed_solved"
+      }
+    ],
+    "verification": {
+      "independent_check": "not_assessed"
+    }
+  }
+]

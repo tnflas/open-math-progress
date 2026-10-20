@@ -1,6 +1,46 @@
 [
- {"repo":"cyanseek/VibeMath","mode":"issues","labels":["solved","resolved","partial-progress","retracted"],"enabled":true},
- {"repo":"bonninr/awesome-ai-solved-math","mode":"issues","labels":["solved","resolved","partial-progress","retracted"],"enabled":true},
- {"repo":"MColbrook/AIM","mode":"issues","labels":["solved","resolved","partial-progress","retracted"],"enabled":true},
- {"repo":"openai/math","mode":"issues","labels":["solved","resolved","partial-progress","retracted"],"enabled":true}
+  {
+    "repo": "cyanseek/VibeMath",
+    "mode": "issues",
+    "labels": [
+      "solved",
+      "resolved",
+      "partial-progress",
+      "retracted"
+    ],
+    "enabled": true
+  },
+  {
+    "repo": "bonninr/awesome-ai-solved-math",
+    "mode": "readme_index",
+    "labels": [
+      "solved",
+      "resolved",
+      "partial-progress",
+      "retracted"
+    ],
+    "enabled": true
+  },
+  {
+    "repo": "MColbrook/AIM",
+    "mode": "issues",
+    "labels": [
+      "solved",
+      "resolved",
+      "partial-progress",
+      "retracted"
+    ],
+    "enabled": true
+  },
+  {
+    "repo": "openai/math",
+    "mode": "issues",
+    "labels": [
+      "solved",
+      "resolved",
+      "partial-progress",
+      "retracted"
+    ],
+    "enabled": true
+  }
 ]

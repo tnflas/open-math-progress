@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-241ded3d7fdf5d63",
+    "potential_duplicates": [],
+    "title": "WOW-II conjecture 305"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5f293d7e1673d34b",
+    "potential_duplicates": [],
+    "title": "Graph conjecture 22 (dmg / zdmg)"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0ec0dd20ea6ed3b4",
+    "potential_duplicates": [],
+    "title": "Adenwalla conjecture 4.12"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f32879508f6f0111",
+    "potential_duplicates": [],
+    "title": "Graffiti conjecture 284"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-aaab2e6e51396bd4",
+    "potential_duplicates": [],
+    "title": "Graffiti conjecture 39"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-df67c7d16a1b4a42",
+    "potential_duplicates": [],
+    "title": "Written-on-the-Wall conjecture 698"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a2816b9e95f927e6",
+    "potential_duplicates": [],
+    "title": "Graffiti conjecture 154"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2025fff390855df4",
+    "potential_duplicates": [],
+    "title": "Černý conjecture — positive-level one-cluster automata"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-10bdfbca27018630",
+    "potential_duplicates": [],
+    "title": "(9,6,1)-perfect Mendelsohn design"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bdc30577a9490585",
+    "potential_duplicates": [],
+    "title": "BTD(14,18; 7,1,9; 7,4)"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9a0b7da0504f9f31",
+    "potential_duplicates": [],
+    "title": "Erdős problem #390"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b059f69448cb7b17",
+    "potential_duplicates": [],
+    "title": "Dinitz–Garg–Goemans conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ff2fe30e399a1317",
+    "potential_duplicates": [],
+    "title": "Balabdaoui–Wellner conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8fddf5fef561524e",
+    "potential_duplicates": [],
+    "title": "mod-4 Kawauchi conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6cac9d1f1c721b20",
+    "potential_duplicates": [],
+    "title": "Spectral edge of the quartic SYK model"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e7a4026af1aaaac4",
+    "potential_duplicates": [],
+    "title": "Gaussian Moments conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9823662a4077118c",
+    "potential_duplicates": [],
+    "title": "Jacobian Conjecture (n = 3)"
+  }
+]
