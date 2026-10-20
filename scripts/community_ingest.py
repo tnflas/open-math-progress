@@ -228,10 +228,7 @@ def rebuild_indexes():
     if len(c_lines) == 4:
         c_lines.append("No community contributions registered yet.")
 
-    write_generated(
-        DOCS / "COMMUNITY_PROBLEMS.md",
-        "\n".join(p_lines) + "\n",
-    )
+
 
 
 def main():

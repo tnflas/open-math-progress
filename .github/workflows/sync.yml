@@ -1,36 +1,59 @@
-name: Update research index
+name: Publish Research Index
+
 on:
   workflow_dispatch:
+  issues:
+    types: [opened, edited, reopened]
   schedule:
     - cron: '17 3 * * *'
+
 permissions:
   contents: write
+  issues: read
   discussions: read
+
 concurrency:
-  group: update-research-index
+  group: omp-single-publisher
   cancel-in-progress: false
+
 jobs:
-  sync:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Collect and build
+
+      - name: Import all submitted Issues
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/community_ingest.py
+
+      - name: Refresh external research sources
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
-          python scripts/core.py all
-          python scripts/unify_index.py
-      - name: Commit generated records
+          python scripts/core.py all || echo "WARNING: External source sync incomplete; retaining existing records."
+
+      - name: Validate original source database
+        run: python scripts/core.py validate
+
+      - name: Publish every public research index
+        run: python scripts/publish_all.py
+
+      - name: Commit results
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/problems.json data/claims.json data/notices.json docs/*.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- data/ docs/ problems/
           if ! git diff --cached --quiet; then
-            git commit -m 'chore: refresh public research index'
-            git push
+            git commit -m "chore: publish unified mathematical research index"
+            git pull --rebase origin main
+            git push origin main
           fi
