@@ -20,3 +20,4 @@ https://arxiv.org/abs/1008.0176
 
 ## Contributions
 
+- [Two Integer-Weight Questions of Pula: An Abelian Quotient Criterion for Latin](contributions/omp-c-i-6/README.md)

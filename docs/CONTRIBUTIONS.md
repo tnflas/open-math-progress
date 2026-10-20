@@ -8,6 +8,7 @@ necessarily paper submission or publication dates.
 
 | Time (UTC) | Time type | Problem | Contribution | Status | Source |
 |---|---|---|---|---|---|
+| 2026-10-20 10:31:16 | Submitted | Pula's Odd-Weight Characterization Problem | [Two Integer-Weight Questions of Pula: An Abelian Quotient Criterion for Latin](../problems/community/omp-u-3/contributions/omp-c-i-6/README.md) | Claimed solution | [Original record](<https://github.com/tnflas/open-math-progress/issues/6>) |
 | 2026-10-20 10:29:40 | Submitted | Pula's Near 1-Weight Existence Problem | [Two Integer-Weight Questions of Pula: An Abelian Quotient Criterion for Latin Squares](../problems/community/omp-u-4/contributions/omp-c-i-5/README.md) | Claimed solution | [Original record](<https://github.com/tnflas/open-math-progress/issues/5>) |
 | 2026-10-20 09:40:04 | Submitted | Ryser's Conjecture | [Why Is Ryser’s Conjecture Difficult? An Obstruction Atlas for Latin Transversals: Signed Weights, Local-Move Barriers, Structural Reductions, and Failed Shortcuts](../problems/community/omp-u-1/contributions/omp-c-i-2/README.md) | Research report | [Original record](<https://github.com/tnflas/open-math-progress/issues/2>) |
 | 2026-10-20 08:42:28 | First observed | Kotzig's Perfect 1-Factorisation Conjecture, Asymptotically | proved | partial_progress | [Original record](<https://vibemathed.com/problem/kotzig-perfect-1-factorisation-asymptotic>) |

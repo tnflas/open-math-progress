@@ -6,6 +6,7 @@ mathematical verification or a publication event.
 
 | Event time (UTC) | Event | Problem or contribution | Status | Source |
 |---|---|---|---|---|
+| 2026-10-20 10:31:16 | Research contribution | Two Integer-Weight Questions of Pula: An Abelian Quotient Criterion for Latin | Claimed solution | [Original](<https://github.com/tnflas/open-math-progress/issues/6>) |
 | 2026-10-20 10:29:40 | Research contribution | Two Integer-Weight Questions of Pula: An Abelian Quotient Criterion for Latin Squares | Claimed solution | [Original](<https://github.com/tnflas/open-math-progress/issues/5>) |
 | 2026-10-20 10:25:07 | Problem registration | Pula's Near 1-Weight Existence Problem | Not assessed | [Original](<https://github.com/tnflas/open-math-progress/issues/4>) |
 | 2026-10-20 10:24:07 | Problem registration | Pula's Odd-Weight Characterization Problem | Not assessed | [Original](<https://github.com/tnflas/open-math-progress/issues/3>) |
@@ -105,4 +106,3 @@ mathematical verification or a publication event.
 | 2026-10-20 08:42:28 | External status observation | Optimal Chain Density and Space-Time Tradeoffs for the TSP | partial_progress | [Original](<https://vibemathed.com/problem/tsp-optimal-chain-density>) |
 | 2026-10-20 08:42:28 | External status observation | Full-RSB in the Sherrington–Kirkpatrick spin glass | claimed_solved | [Original](<https://vibemathed.com/problem/full-rsb-in-the-sherrington-kirkpatrick-spin-glass>) |
 | 2026-10-20 08:42:28 | External status observation | The Abbott-Hanson Recurrence for Schur Numbers | partial_progress | [Original](<https://vibemathed.com/problem/schur-number-recurrence>) |
-| 2026-10-20 08:42:28 | External status observation | Uniform Székelyhidi conjectures for complex Hessian equations on projective manifolds | partial_progress | [Original](<https://vibemathed.com/problem/uniform-szekelyhidi-conjectures-for-complex-hessian-equations-on-projective-mani>) |
