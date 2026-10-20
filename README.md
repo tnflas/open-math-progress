@@ -18,6 +18,23 @@ Our goal is to make mathematical progress easier to discover, trace, compare, an
 | [GitHub Discussions](../../discussions) | Submit research reports, notices, corrections, or responses. |
 | [Methodology](METHODOLOGY.md) | Understand the indexing process and its limitations. |
 
+## Submit Research
+
+**No coding or Git commands required.**
+
+[**Submission Guide**](docs/SUBMISSION_GUIDE.md) |
+[**Submit a Problem or Paper**](https://github.com/tnflas/open-math-progress/issues/new/choose) |
+[**Public Research Notices**](https://github.com/tnflas/open-math-progress/discussions)
+
+- **Issues:** Register new problems and submit research contributions.
+- **Discussions:** Prior research, attribution statements, and responses.
+
+[Community Problems](docs/COMMUNITY_PROBLEMS.md) |
+[Community Contributions](docs/COMMUNITY_SUBMISSIONS.md)
+
+All submissions are source-reported or contributor-submitted.
+OMP does not independently certify mathematical results or priority.
+
 ## What We Collect
 
 OMP aims to document:
@@ -63,23 +80,6 @@ The index is generated from structured metadata and source links.
 The automated system does not determine whether a mathematical proof is correct.
 
 For more information, see [Methodology](METHODOLOGY.md).
-
-## Submit Research
-
-**No coding or Git commands required.**
-
-[**Submission Guide**](docs/SUBMISSION_GUIDE.md) |
-[**Submit a Problem or Paper**](https://github.com/tnflas/open-math-progress/issues/new/choose) |
-[**Public Research Notices**](https://github.com/tnflas/open-math-progress/discussions)
-
-- **Issues:** Register new problems and submit research contributions.
-- **Discussions:** Prior research, attribution statements, and responses.
-
-[Community Problems](docs/COMMUNITY_PROBLEMS.md) |
-[Community Contributions](docs/COMMUNITY_SUBMISSIONS.md)
-
-All submissions are source-reported or contributor-submitted.
-OMP does not independently certify mathematical results or priority.
 
 ## Contributing
 
