@@ -1,5 +1,5 @@
 # Public Research Notices
 
-Research notices are contributor-submitted and unreviewed.
+**Unreviewed contributor submissions; inclusion confers no priority or ownership.**
 
-Publication does not establish academic priority or ownership.
+No indexed notices yet; use the Discussions tab to submit one.

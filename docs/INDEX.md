@@ -1,5 +1,7 @@
-# Research Index
+# Mathematical Research Index
 
-Entries are source-reported and not independently verified.
+**Source-reported claims, not independently verified mathematical results.**
 
-No indexed records yet.
+| Problem | Source-reported status | Original source |
+|---|---|---|
+| No indexed claims yet | — | — |

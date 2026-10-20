@@ -1,3 +1,5 @@
-# Recent Progress
+# Recently Observed Claims
 
-No records yet.
+Source-reported updates only; no independent verification.
+
+No changes yet.
