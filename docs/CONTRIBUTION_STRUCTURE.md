@@ -1,72 +1,49 @@
 # Problem-Centered Contribution Structure
 
-OMP supports multiple independent contributions to the same problem.
+Open Math Progress organizes research around mathematical problems.
 
-## Directory Layout
+## Problem Records
 
-```text
-problems/
-  problem-slug-id/
-    README.md
-    metadata.json
-    contributions/
-      OMP-C-xxxxxxxxxxxx/
-        README.md
-        metadata.json
-        versions/
-          v1/
-            paper.pdf
-            paper.tex
-```
+A problem has a stable identifier and may contain contributions from
+multiple independent researchers.
 
-Each contribution has a stable contribution ID.
+## Contributions
 
-One contribution may have multiple authors and versions.
-
-Research notices remain public GitHub Discussions. They are not
-automatically treated as verified priority claims.
-
-## Existing Problems
-
-Use an existing ID from `data/problems.json` when adding contributions.
-
-The current external index may contain several problem candidates
-for the same mathematical question. Similar titles do not justify
-automatic merging.
-
-## Add a Contribution
+Each contribution has its own identifier, author list, reported status,
+original submission link, and manuscript links.
 
 Example:
 
-```bash
-python3 scripts/add_contribution.py \
-  --problem-id "OMP-EXISTING-ID" \
-  --title "Research Progress" \
-  --author "Author Name" \
-  --paper "/path/to/paper.pdf"
+```text
+problems/
+  community/
+    omp-u-1/
+      metadata.json
+      README.md
+      contributions/
+        omp-c-i-2/
+          metadata.json
+          README.md
 ```
 
-The ID in this example must be replaced by an actual ID.
+This illustrates the current storage layout; `community/` is an
+implementation detail, not a separate type of mathematical contribution.
 
-You may provide `--author` more than once for joint work.
+## How to Submit
 
-## Versioning
+**Contributors do not need to write code.**
 
-The initial submission creates `versions/v1/`.
+Use the [Submission Guide](SUBMISSION_GUIDE.md) to register a mathematical
+problem or submit a research contribution through GitHub Issue Forms.
 
-Later versions must preserve earlier files where legally and
-technically appropriate. Do not overwrite a published version
-without updating its metadata.
+## External Research
 
-## Licensing
+Research imported from external sources may be represented by metadata
+and original-source links rather than copied PDF files.
 
-Only upload papers and attachments you have permission to publish.
+## Versioning and Verification
 
-For external research, prefer links rather than copying third-party PDFs.
+Contributions may have revised manuscripts. Preserve original source
+links and distinguish reported claims from independently checked results.
 
-## Verification
-
-The contributor reports the research outcome.
-
-OMP does not independently verify mathematical correctness,
-originality, or scientific priority.
+OMP does not determine mathematical correctness, novelty, or priority.

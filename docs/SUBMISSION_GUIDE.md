@@ -1,51 +1,41 @@
-# Submit Research
+# Research Submission Guide
 
-OMP provides a no-code submission process using GitHub.
+Submit mathematical research through GitHub. No programming or Git commands are required.
 
 ## Register a New Mathematical Problem
 
-1. Open [New Issue](https://github.com/tnflas/open-math-progress/issues/new/choose).
-2. Select **Register a New Mathematical Problem**.
-3. Enter the problem title, statement, original reference and field.
-4. Submit.
-5. Find its generated ID in [Problems](PROBLEMS.md).
+1. Open [Submit Research](https://github.com/tnflas/open-math-progress/issues/new/choose).
+2. Choose **Register a New Mathematical Problem**.
+3. Enter the problem name, statement, mathematical field, and original reference.
+4. Submit the form.
+5. Find the resulting problem ID in [Problems](PROBLEMS.md).
 
-New registrations are public and not independently verified.
+Registration is not a certification of mathematical correctness, novelty, or priority.
 
-## Submit a Research Contribution
+## Submit a Contribution to a Problem
 
-1. Locate the problem in [Problems](PROBLEMS.md).
+1. Find the problem in [Problems](PROBLEMS.md).
 2. Copy its OMP Problem ID.
-3. Open [New Issue](https://github.com/tnflas/open-math-progress/issues/new/choose).
-4. Select **Submit Research Contribution**.
-5. Enter the ID, title, all authors, abstract and reported status.
-6. Provide a public manuscript URL or a GitHub-supported attachment link.
-7. Submit. The generated record will appear in
-   [Contributions](CONTRIBUTIONS.md) after successful processing.
+3. Open [Submit Research](https://github.com/tnflas/open-math-progress/issues/new/choose).
+4. Choose **Submit Research Contribution**.
+5. Fill in the title, authors, abstract, status and AI involvement.
+6. Supply a public manuscript link or GitHub-supported attachment link.
+7. Submit the form.
 
-If the problem is missing, register it first.
+Successful automatic registration places the result in
+[Contributions](CONTRIBUTIONS.md).
 
-Multiple independent contributions may belong to the same problem.
-OMP does not download or take ownership of linked manuscripts.
+Multiple researchers can contribute independently to the same problem.
+A contribution may have multiple authors.
 
-## Academic Credit and Prior Research
+## Research Notices and Responses
 
 Use [GitHub Discussions](https://github.com/tnflas/open-math-progress/discussions)
-and choose **Research Notices** to document earlier work,
-parallel research, or attribution concerns.
+for prior research, parallel work, attribution concerns, and responses.
 
-Use **Corrections & Responses** for public responses.
+Discussions are not the automated paper submission channel.
 
-These notices do not establish mathematical correctness,
-scientific priority, ownership or misconduct.
+## Verification and Rights
 
-## Limitations
-
-The public index combines different sources but does not
-certify that two indexed records describe mathematically
-identical problems.
-
-Submission and indexing do not constitute peer review.
-
-Do not upload confidential materials or third-party material
-you are not authorized to distribute.
+OMP does not independently verify results or adjudicate academic priority.
+Only submit material you are authorized to share.

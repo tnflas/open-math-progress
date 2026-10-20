@@ -1,17 +1,5 @@
 # Open Math Progress
 
-## Submit Research
-
-**Submit a mathematical problem or research contribution — no coding required.**
-
-**[Submit a New Problem or Paper →](https://github.com/tnflas/open-math-progress/issues/new/choose)**
-
-[Submission Guide](docs/SUBMISSION_GUIDE.md) ·
-[Research Notices & Attribution](https://github.com/tnflas/open-math-progress/discussions)
-
-New problems and research reports are submitted through GitHub Issues.
-Prior work, attribution statements and scholarly responses belong in Discussions.
-
 ## Explore
 
 - **[Mathematical Problems](docs/PROBLEMS.md)**
@@ -20,6 +8,24 @@ Prior work, attribution statements and scholarly responses belong in Discussions
 - [Original-source Index](docs/INDEX.md)
 
 **An open, automated, source-linked index of mathematical research progress and AI-assisted discoveries.**
+
+## Submit Research
+
+**[Submit a New Mathematical Problem or Research Contribution →](https://github.com/tnflas/open-math-progress/issues/new/choose)**
+
+**No coding required.** Fill in a GitHub form and provide a manuscript link.
+
+[Submission Guide](docs/SUBMISSION_GUIDE.md) ·
+[Research Notices](https://github.com/tnflas/open-math-progress/discussions)
+
+## Browse Research
+
+- [Problems](docs/PROBLEMS.md)
+- [Contributions](docs/CONTRIBUTIONS.md)
+- [Recent Progress](docs/RECENT_PROGRESS.md)
+- [Research Index](docs/INDEX.md)
+
+
 
 Open Math Progress (OMP) is an independent, community-oriented project that aggregates publicly reported developments on mathematical research problems.
 
