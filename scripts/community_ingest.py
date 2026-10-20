@@ -232,10 +232,7 @@ def rebuild_indexes():
         DOCS / "COMMUNITY_PROBLEMS.md",
         "\n".join(p_lines) + "\n",
     )
-    write_generated(
-        DOCS / "COMMUNITY_SUBMISSIONS.md",
-        "\n".join(c_lines) + "\n",
-    )
+
 
 def main():
     repo = os.getenv("GITHUB_REPOSITORY")

@@ -1,44 +1,20 @@
-# Contributing to Open Math Progress
+# Contributing
 
-You do not need to write code to submit research.
+**[Start with the single Submission Guide](docs/SUBMISSION_GUIDE.md).**
 
-**Start with the [Submission Guide](docs/SUBMISSION_GUIDE.md).**
-
-## Submission Channels
-
-| Purpose | Channel |
+| Goal | Where to go |
 |---|---|
-| Register a mathematical problem | GitHub Issues |
-| Submit a research paper or partial result | GitHub Issues |
-| Report prior or parallel research | GitHub Discussions |
-| Raise attribution concerns | GitHub Discussions |
-| Publish responses or scholarly corrections | GitHub Discussions |
-| Report metadata or software errors | GitHub Issues |
-| Improve source code | Pull Requests |
+| Register a mathematical problem | GitHub Issue Form |
+| Submit a paper or partial result | GitHub Issue Form |
+| Find research contributions | [Contributions](docs/CONTRIBUTIONS.md) |
+| Report prior or parallel work | Research Notices in Discussions |
+| Raise attribution concerns | Discussions |
+| Report broken links or data issues | Issues |
+| Modify software | Pull Requests |
 
-## Automated Research Registration
+No coding knowledge is required for research submissions.
 
-Use the structured GitHub Issue Forms.
+OMP records public claims and does not verify proofs or
+determine academic priority.
 
-The system attempts to associate each contribution with a
-mathematical problem and generate a public index record.
-
-If a problem has not been registered, register it first.
-
-## Research Ethics
-
-OMP does not verify mathematical correctness, originality,
-authorship, or academic priority.
-
-Do not submit unauthorized third-party material, confidential
-research, or private information.
-
-Read [Research Ethics](RESEARCH_ETHICS.md) and
-[Data License](DATA_LICENSE.md).
-
-## Code Contributions
-
-Software contributors may submit Pull Requests with tests.
-
-Ordinary mathematical research contributors do not need Git
-or programming knowledge.
+Please follow [Research Ethics](RESEARCH_ETHICS.md).

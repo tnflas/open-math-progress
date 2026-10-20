@@ -33,6 +33,9 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python scripts/community_ingest.py
 
+      - name: Generate unified indexes
+        run: python scripts/unify_index.py
+
       - name: Validate current research data
         run: python scripts/core.py validate
 
@@ -40,7 +43,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A -- problems/ docs/COMMUNITY_PROBLEMS.md docs/COMMUNITY_SUBMISSIONS.md
+          git add -A -- problems/ docs/
           if ! git diff --cached --quiet; then
             git commit -m "Update community research submissions"
             git push

@@ -1,5 +1,24 @@
 # Open Math Progress
 
+## Submit Research
+
+**Submit a mathematical problem or research contribution — no coding required.**
+
+**[Submit a New Problem or Paper →](https://github.com/tnflas/open-math-progress/issues/new/choose)**
+
+[Submission Guide](docs/SUBMISSION_GUIDE.md) ·
+[Research Notices & Attribution](https://github.com/tnflas/open-math-progress/discussions)
+
+New problems and research reports are submitted through GitHub Issues.
+Prior work, attribution statements and scholarly responses belong in Discussions.
+
+## Explore
+
+- **[Mathematical Problems](docs/PROBLEMS.md)**
+- **[Research Contributions](docs/CONTRIBUTIONS.md)**
+- [Recent Progress](docs/RECENT_PROGRESS.md)
+- [Original-source Index](docs/INDEX.md)
+
 **An open, automated, source-linked index of mathematical research progress and AI-assisted discoveries.**
 
 Open Math Progress (OMP) is an independent, community-oriented project that aggregates publicly reported developments on mathematical research problems.
@@ -17,23 +36,6 @@ Our goal is to make mathematical progress easier to discover, trace, compare, an
 | [Public Research Notices](docs/PUBLIC_NOTICES.md) | Discover public statements about prior work, parallel research, and attribution. |
 | [GitHub Discussions](../../discussions) | Submit research reports, notices, corrections, or responses. |
 | [Methodology](METHODOLOGY.md) | Understand the indexing process and its limitations. |
-
-## Submit Research
-
-**No coding or Git commands required.**
-
-[**Submission Guide**](docs/SUBMISSION_GUIDE.md) |
-[**Submit a Problem or Paper**](https://github.com/tnflas/open-math-progress/issues/new/choose) |
-[**Public Research Notices**](https://github.com/tnflas/open-math-progress/discussions)
-
-- **Issues:** Register new problems and submit research contributions.
-- **Discussions:** Prior research, attribution statements, and responses.
-
-[Community Problems](docs/COMMUNITY_PROBLEMS.md) |
-[Community Contributions](docs/COMMUNITY_SUBMISSIONS.md)
-
-All submissions are source-reported or contributor-submitted.
-OMP does not independently certify mathematical results or priority.
 
 ## What We Collect
 
