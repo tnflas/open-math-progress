@@ -24,3 +24,4 @@ https://oeis.org/A091323
 
 ## Contributions
 
+- [Why Is Ryser’s Conjecture Difficult? An Obstruction Atlas for Latin Transversals: Signed Weights, Local-Move Barriers, Structural Reductions, and Failed Shortcuts](contributions/omp-c-i-2/README.md)
