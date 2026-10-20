@@ -626,6 +626,7 @@ mathematical questions. OMP does not verify their status.
 | `OMP-1078774874ecc514` | Rivière’s regularity question for critical $n$-Laplace systems with antisymmetric potentials | External indexed record |
 | `OMP-c6a082b713879c69` | Ross's Two Conjectures on Nondeficient Numbers | External indexed record |
 | `OMP-e21f7107e3e004bb` | Rota's Unimodality Conjecture for Matroid Flats | External indexed record |
+| `OMP-U-1` | Ryser's Conjecture | [Problem page](<../problems/community/omp-u-1/README.md>) |
 | `OMP-083c7d7d36353b8b` | Sabidussi's Compatibility Conjecture | External indexed record |
 | `OMP-610bd4dfc58bb202` | Sabok's S-Prime Simplex Questions | External indexed record |
 | `OMP-bb1bb27d0e4459da` | Sard conjecture for smooth bracket-generating distributions | External indexed record |
