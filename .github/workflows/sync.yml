@@ -1,22 +1,34 @@
-name: Sync Math Progress
-
+name: Update research index
 on:
-  schedule:
-    - cron: "17 3 * * *"
   workflow_dispatch:
-
+  schedule:
+    - cron: '17 3 * * *'
 permissions:
-  contents: read
-
+  contents: write
+  discussions: read
+concurrency:
+  group: update-research-index
+  cancel-in-progress: false
 jobs:
-  validate:
+  sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-      - name: Validate data
-        run: python scripts/validate.py
-      - name: Check generated index
-        run: python scripts/generate.py
+          python-version: '3.12'
+      - name: Collect and build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/core.py all
+      - name: Commit generated records
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/problems.json data/claims.json data/notices.json docs/*.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh public research index'
+            git push
+          fi
