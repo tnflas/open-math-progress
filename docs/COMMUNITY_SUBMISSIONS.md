@@ -1,3 +1,5 @@
 # Community Research Contributions
 
-No submissions yet.
+Contributor-submitted; no mathematical or priority adjudication.
+
+No community contributions registered yet.
