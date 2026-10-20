@@ -1,0 +1,12 @@
+{
+  "id": "OMP-U-4",
+  "title": "Pula's Near 1-Weight Existence Problem",
+  "statement": "Let \\(L\\) be a Latin square of order \\(n\\). A near 1-weight is an integer-valued function on the cells of \\(L\\) such that exactly one row, one column, and one symbol have total weight zero, while every other row, column, and symbol has total weight one.\n\n  **Question:** Does every Latin square admit a near 1-weight?\n\n  This is the integer-weight analogue of Brualdi's near-transversal conjecture, raised by Kyle Pula.\n\n  Source: Kyle Pula, *A Generalization of Plexes of Latin Squares* (2010), Section 5, Question 2.",
+  "original_reference": "https://arxiv.org/abs/1008.0176",
+  "field": "Combinatorics",
+  "submitted_by": "tnflas",
+  "issue_url": "https://github.com/tnflas/open-math-progress/issues/4",
+  "created_at": "2026-10-20T10:25:07Z",
+  "verification": "not_assessed",
+  "registration_type": "contributor_submitted"
+}
