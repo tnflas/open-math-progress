@@ -1,5 +1,7 @@
 # Public Research Notices
 
-**Unreviewed contributor submissions; inclusion confers no priority or ownership.**
+Unreviewed public notices; newest first, UTC.
 
-No indexed notices yet; use the Discussions tab to submit one.
+| Submitted (UTC) | Notice | Category | Source |
+|---|---|---|---|
+| — | No notices yet | — | — |

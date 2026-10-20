@@ -212,6 +212,9 @@ def main():
         if title not in recent_text and len(events) <= 100:
             raise AssertionError(f"Contribution absent from recent feed: {c['id']}")
 
+    from chronological_indexes import main as publish_utc_indexes
+    publish_utc_indexes()
+
     print(
         f"PUBLISHED problems={len(titles)} "
         f"external_claims={len(external_c)} "
