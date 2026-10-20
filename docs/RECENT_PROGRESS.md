@@ -6,6 +6,7 @@ mathematical verification or a publication event.
 
 | Event time (UTC) | Event | Problem or contribution | Status | Source |
 |---|---|---|---|---|
+| 2026-10-20 10:24:07 | Problem registration | Pula's Odd-Weight Characterization Problem | Not assessed | [Original](<https://github.com/tnflas/open-math-progress/issues/3>) |
 | 2026-10-20 09:40:04 | Research contribution | Why Is Ryser’s Conjecture Difficult? An Obstruction Atlas for Latin Transversals: Signed Weights, Local-Move Barriers, Structural Reductions, and Failed Shortcuts | Research report | [Original](<https://github.com/tnflas/open-math-progress/issues/2>) |
 | 2026-10-20 09:26:47 | Problem registration | Ryser's Conjecture | Not assessed | [Original](<https://github.com/tnflas/open-math-progress/issues/1>) |
 | 2026-10-20 08:42:28 | External status observation | Kotzig's Perfect 1-Factorisation Conjecture, Asymptotically | partial_progress | [Original](<https://vibemathed.com/problem/kotzig-perfect-1-factorisation-asymptotic>) |
@@ -105,4 +106,3 @@ mathematical verification or a publication event.
 | 2026-10-20 08:42:28 | External status observation | Uniform Székelyhidi conjectures for complex Hessian equations on projective manifolds | partial_progress | [Original](<https://vibemathed.com/problem/uniform-szekelyhidi-conjectures-for-complex-hessian-equations-on-projective-mani>) |
 | 2026-10-20 08:42:28 | External status observation | Cutoff for Kac's Walk on the Sphere | claimed_solved | [Original](<https://vibemathed.com/problem/kac-walk-cutoff-sphere>) |
 | 2026-10-20 08:42:28 | External status observation | Finite Generation for klt Generalized Pairs | claimed_solved | [Original](<https://vibemathed.com/problem/finite-generation-for-klt-generalized-pairs>) |
-| 2026-10-20 08:42:28 | External status observation | Dittert's Conjecture in Dimension 16 | partial_progress | [Original](<https://vibemathed.com/problem/dittert-conjecture-dimension-16>) |

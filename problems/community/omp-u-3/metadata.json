@@ -1,0 +1,12 @@
+{
+  "id": "OMP-U-3",
+  "title": "Pula's Odd-Weight Characterization Problem",
+  "statement": "Let \\(L\\) be a Latin square. An integer \\(k\\)-weight is a function assigning an integer to each cell such that every row sum, column sum, and symbol sum equals \\(k\\).\n\n  Pula proved that Latin squares with an odd-block pattern of the Cayley table of a cyclic group of even order have no odd-weights.\n\n  **Question:** Is the converse true? More precisely, must every Latin square admitting no odd-weight have an odd-block pattern of a cyclic group of even order?\n\n  Source: Kyle Pula, *A Generalization of Plexes of Latin Squares* (2010), Section 5, Question 1.",
+  "original_reference": "https://arxiv.org/abs/1008.0176",
+  "field": "Combinatorics",
+  "submitted_by": "tnflas",
+  "issue_url": "https://github.com/tnflas/open-math-progress/issues/3",
+  "created_at": "2026-10-20T10:24:07Z",
+  "verification": "not_assessed",
+  "registration_type": "contributor_submitted"
+}
