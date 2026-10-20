@@ -1,0 +1,93 @@
+name: "Submit Research Contribution"
+description: "Submit a paper or research report without writing code."
+title: "[Contribution] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit research to an existing OMP problem.
+
+        Find the Problem ID in the research index.
+        If your problem is missing, register it first.
+
+        For PDF files, drag the file into a GitHub comment or
+        description field where attachments are supported, and
+        paste the resulting link below.
+
+        You can also use a public Zenodo or arXiv URL.
+        OMP does not verify mathematical correctness or priority.
+
+  - type: input
+    id: problem-id
+    attributes:
+      label: Problem ID
+      description: "e.g. OMP-U-125 or an existing OMP ID"
+    validations:
+      required: true
+
+  - type: input
+    id: contribution-title
+    attributes:
+      label: Contribution Title
+    validations:
+      required: true
+
+  - type: textarea
+    id: authors
+    attributes:
+      label: Authors
+      description: One author per line.
+    validations:
+      required: true
+
+  - type: textarea
+    id: abstract
+    attributes:
+      label: Abstract
+    validations:
+      required: true
+
+  - type: dropdown
+    id: reported-status
+    attributes:
+      label: Reported Status
+      options:
+        - Research report
+        - Partial progress
+        - Claimed solution
+        - Claimed counterexample
+        - Correction
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: ai-involvement
+    attributes:
+      label: AI Involvement
+      options:
+        - AI-assisted
+        - No AI assistance reported
+        - Unknown
+    validations:
+      required: true
+
+  - type: textarea
+    id: manuscript-links
+    attributes:
+      label: Manuscript and Attachment Links
+      description: |
+        Paste links to your PDF, TeX, Zenodo, arXiv or
+        GitHub-hosted files. Do not paste confidential material.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: acknowledgement
+    attributes:
+      label: Acknowledgement
+      options:
+        - label: I have the right to share the submitted material.
+          required: true
+        - label: I understand OMP does not certify this research.
+          required: true

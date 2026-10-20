@@ -103,3 +103,22 @@ The repository does not certify mathematical solutions or adjudicate scholarly d
 - [Contributing](CONTRIBUTING.md)
 - [Data and Licensing](DATA_LICENSE.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
+
+## Community Research Contributions
+
+Researchers may submit multiple independent contributions to the same mathematical problem.
+
+- [Community Contributions](docs/COMMUNITY_CONTRIBUTIONS.md)
+- [Contribution Structure](docs/CONTRIBUTION_STRUCTURE.md)
+
+
+## Submit Research — No Coding Required
+
+- [Register a New Mathematical Problem](../../issues/new/choose)
+- [Submit a Research Contribution](../../issues/new/choose)
+- [Web Submission Guide](docs/WEB_SUBMISSION_GUIDE.md)
+- [Community Problems](docs/COMMUNITY_PROBLEMS.md)
+- [Community Submissions](docs/COMMUNITY_SUBMISSIONS.md)
+
+Submissions are public and unreviewed. Inclusion does not establish
+mathematical correctness, scientific priority, or ownership.

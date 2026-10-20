@@ -1,0 +1,58 @@
+name: "Register a New Mathematical Problem"
+description: "Register a mathematical problem without writing code."
+title: "[New Problem] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form creates a public, source-reported mathematical
+        problem record. OMP does not review mathematical correctness.
+
+  - type: input
+    id: problem-title
+    attributes:
+      label: Problem Title
+      placeholder: "e.g. Ryser's Conjecture"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem-statement
+    attributes:
+      label: Problem Statement
+      description: State the question and its mathematical scope.
+    validations:
+      required: true
+
+  - type: input
+    id: original-reference
+    attributes:
+      label: Original Reference
+      description: Link to a paper, article or original source.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: field
+    attributes:
+      label: Mathematical Field
+      options:
+        - Combinatorics
+        - Probability
+        - Algebra
+        - Geometry and Topology
+        - Analysis
+        - Number Theory
+        - Mathematical Physics
+        - Applied Mathematics
+        - Other
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: acknowledgement
+    attributes:
+      label: Acknowledgement
+      options:
+        - label: I understand this is an unreviewed public record.
+          required: true
