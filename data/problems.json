@@ -14,7 +14,9 @@
   {
     "canonical_status": "not_assessed",
     "id": "OMP-0ec0dd20ea6ed3b4",
-    "potential_duplicates": [],
+    "potential_duplicates": [
+      "OMP-9b04d8bc29b2b931"
+    ],
     "title": "Adenwalla conjecture 4.12"
   },
   {
@@ -26,7 +28,9 @@
   {
     "canonical_status": "not_assessed",
     "id": "OMP-aaab2e6e51396bd4",
-    "potential_duplicates": [],
+    "potential_duplicates": [
+      "OMP-feced4e306d8ec0c"
+    ],
     "title": "Graffiti conjecture 39"
   },
   {
@@ -38,7 +42,9 @@
   {
     "canonical_status": "not_assessed",
     "id": "OMP-a2816b9e95f927e6",
-    "potential_duplicates": [],
+    "potential_duplicates": [
+      "OMP-ee44d7a97aa9d03f"
+    ],
     "title": "Graffiti conjecture 154"
   },
   {
@@ -56,13 +62,17 @@
   {
     "canonical_status": "not_assessed",
     "id": "OMP-bdc30577a9490585",
-    "potential_duplicates": [],
+    "potential_duplicates": [
+      "OMP-f84422e342fc4e52"
+    ],
     "title": "BTD(14,18; 7,1,9; 7,4)"
   },
   {
     "canonical_status": "not_assessed",
     "id": "OMP-9a0b7da0504f9f31",
-    "potential_duplicates": [],
+    "potential_duplicates": [
+      "OMP-cdb30d5b2ea84c6a"
+    ],
     "title": "Erdős problem #390"
   },
   {
@@ -100,5 +110,1599 @@
     "id": "OMP-9823662a4077118c",
     "potential_duplicates": [],
     "title": "Jacobian Conjecture (n = 3)"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9b04d8bc29b2b931",
+    "potential_duplicates": [
+      "OMP-0ec0dd20ea6ed3b4"
+    ],
+    "title": "Adenwalla conjecture 4.12"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-995919e3254fd179",
+    "potential_duplicates": [],
+    "title": "Tang–Zhang conjecture 3.1"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b51c52e0a32da8e8",
+    "potential_duplicates": [],
+    "title": "14-vertex DDMOG sparsity conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-463df0a295c39cd0",
+    "potential_duplicates": [],
+    "title": "Hashemi conjecture 4.1"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-92679bd66058b7cf",
+    "potential_duplicates": [],
+    "title": "Hypercube edge-multiset problem 7"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c3929d62a4ce3411",
+    "potential_duplicates": [],
+    "title": "Bubboloni–Fumagalli–Praeger conjecture 1"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bb285ab60fe4aaae",
+    "potential_duplicates": [],
+    "title": "DeLeo–Henderschedt–Wells conjecture 1.4"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3abd48459b806a3d",
+    "potential_duplicates": [],
+    "title": "Friedman conjecture 3.2"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c9919031adc6a310",
+    "potential_duplicates": [],
+    "title": "Bóna–Maga–Richey conjecture 3.1"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6f54831e13bf97da",
+    "potential_duplicates": [],
+    "title": "Suvagiya conjecture 3"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3feba68b2b636832",
+    "potential_duplicates": [],
+    "title": "Gray–Payne–Swisher–Watson conjecture 1.2"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-feced4e306d8ec0c",
+    "potential_duplicates": [
+      "OMP-aaab2e6e51396bd4"
+    ],
+    "title": "Graffiti conjecture 39"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4a110ebba3802166",
+    "potential_duplicates": [],
+    "title": "Graffiti conjecture 40"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ee44d7a97aa9d03f",
+    "potential_duplicates": [
+      "OMP-a2816b9e95f927e6"
+    ],
+    "title": "Graffiti conjecture 154"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b4fa0b531753e807",
+    "potential_duplicates": [],
+    "title": "Graffiti conjecture 143"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f84422e342fc4e52",
+    "potential_duplicates": [
+      "OMP-bdc30577a9490585"
+    ],
+    "title": "BTD(14,18; 7,1,9; 7,4)"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-20a0e9f546c20d73",
+    "potential_duplicates": [],
+    "title": "BTD(12,15; 6,2,10; 8,6)"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a739df32bfd9dad6",
+    "potential_duplicates": [],
+    "title": "BTD(12,20; 4,3,10; 6,4)"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cdb30d5b2ea84c6a",
+    "potential_duplicates": [
+      "OMP-9a0b7da0504f9f31"
+    ],
+    "title": "Erdős problem #390"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9b7aa25d4c9703e1",
+    "potential_duplicates": [],
+    "title": "Erdős problem #486"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-abd63475bdb0cde8",
+    "potential_duplicates": [],
+    "title": "Erdős problem #536"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-60472c9fd9a6697e",
+    "potential_duplicates": [],
+    "title": "Erdős problem #788"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-57e6c5635c07b74e",
+    "potential_duplicates": [],
+    "title": "Erdős problem #1002"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-196460dae07123c2",
+    "potential_duplicates": [],
+    "title": "Erdős problem #1038"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-293927ccaa01a2ef",
+    "potential_duplicates": [],
+    "title": "Hot spots on convex planar domains"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-04e512c2929a3e11",
+    "potential_duplicates": [],
+    "title": "The Mercedes-star partition of a disk"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-08898c4c19d433cd",
+    "potential_duplicates": [],
+    "title": "Yau's sharp upper bound for nodal volume"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e0f803c4f3d5fcdf",
+    "potential_duplicates": [],
+    "title": "Extended states in the three-dimensional Anderson model"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7ed529d596c84c44",
+    "potential_duplicates": [],
+    "title": "The complete Crouzeix conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8ea8d2056a14d167",
+    "potential_duplicates": [],
+    "title": "The maximum number of mutually unbiased bases in dimension six"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-35b1bf2f3e9ca669",
+    "potential_duplicates": [],
+    "title": "Uniform spatial stability of von Neumann algebras"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b5ff1eb0498c6e4e",
+    "potential_duplicates": [],
+    "title": "Kadison’s similarity problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-43cedcf318b95e70",
+    "potential_duplicates": [],
+    "title": "Dixmier’s unitarizability problem for countable groups"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c459f35e7d4b92ba",
+    "potential_duplicates": [],
+    "title": "Accurate selected bidiagonal singular vectors in O(kn) work"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7c5e57d887beeafc",
+    "potential_duplicates": [],
+    "title": "A nearly cubic Schur algorithm using only linear precision"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a32d3c07106417f0",
+    "potential_duplicates": [],
+    "title": "Improve the worst-case tensor-train approximation factor"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c354d4d0d104308e",
+    "potential_duplicates": [],
+    "title": "Calderón uniqueness for bounded measurable conductivities"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bf8e67cb355d253e",
+    "potential_duplicates": [],
+    "title": "Smooth anisotropic Calderón uniqueness"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0ab9318a5a3657e6",
+    "potential_duplicates": [],
+    "title": "Calderón uniqueness from an arbitrary local boundary patch"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-aff2d4e38379ed3c",
+    "potential_duplicates": [],
+    "title": "Recover both Lamé moduli from static boundary measurements"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-afa15bdf6a913476",
+    "potential_duplicates": [],
+    "title": "Recover a potential on a general known Riemannian manifold"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b61124a65bbbc13e",
+    "potential_duplicates": [],
+    "title": "Characterizing realizable geodesic scattering data"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8d809fef68ccf1a6",
+    "potential_duplicates": [],
+    "title": "Global Birkhoff billiard integrability conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-daa0e45c59d0e572",
+    "potential_duplicates": [],
+    "title": "Positive metric entropy for a standard map"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5857679d6b147df8",
+    "potential_duplicates": [],
+    "title": "Exact uniform control time near a viscous Burgers shock"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-56a3033356ba24bc",
+    "potential_duplicates": [],
+    "title": "Large-data global classical solutions of relativistic Vlasov–Maxwell"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7cb17ee20a363455",
+    "potential_duplicates": [],
+    "title": "The symmetric Mahler inequality in four dimensions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f52c650e5cc371ba",
+    "potential_duplicates": [],
+    "title": "Gaussian-energy optimality of the triangular lattice among periodic configurations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d8daeddc25e887f2",
+    "potential_duplicates": [],
+    "title": "Absence of an infinite cluster at criticality in three-dimensional percolation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-79e7be7a890f13a7",
+    "potential_duplicates": [],
+    "title": "One-dimensionality of monotone Allen–Cahn fronts in dimension five"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fe88e7266ae55f29",
+    "potential_duplicates": [],
+    "title": "Cardy's crossing formula for square-lattice bond percolation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-749058a728227b2d",
+    "potential_duplicates": [],
+    "title": "Uniform boundedness of the first atomic ionization energy"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-490c8ae7bb43dad6",
+    "potential_duplicates": [],
+    "title": "Arbitrarily large Steklov frequency with a prescribed embedded boundary"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e02cdd3e4d20dc01",
+    "potential_duplicates": [],
+    "title": "Euclidean isoperimetry in higher-dimensional Cartan–Hadamard manifolds"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-97f80c78d845d7ce",
+    "potential_duplicates": [],
+    "title": "Uniqueness of nonnegative heat controls at the minimum time"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d4726937faaf6f68",
+    "potential_duplicates": [],
+    "title": "Sharp characterization of exactly trackable boundary heat fluxes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2489fec871fd39a1",
+    "potential_duplicates": [],
+    "title": "Finite-jet determination of small-time local controllability"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2e06c081b0253f98",
+    "potential_duplicates": [],
+    "title": "An irrational polygon with nonergodic billiard flow"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d1bfbb3cbed86dfa",
+    "potential_duplicates": [],
+    "title": "Smooth approximation of three-dimensional Sobolev homeomorphisms"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cb057a76cb1ebea7",
+    "potential_duplicates": [],
+    "title": "The first dimension with a singular one-phase minimizing cone"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f12194a5ce974d39",
+    "potential_duplicates": [],
+    "title": "An extreme solitary wave for the bidirectional Whitham system"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a8cf24a3a2346aa9",
+    "potential_duplicates": [],
+    "title": "A uniform limit-cycle bound for quadratic planar dynamics"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-10716991ac46207b",
+    "potential_duplicates": [],
+    "title": "Strict convexity of the planar exponential first-passage shape"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cb44da1fcdb6e219",
+    "potential_duplicates": [],
+    "title": "Absence of doubly infinite minimizing paths in planar first-passage percolation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-da5b6b033555de68",
+    "potential_duplicates": [],
+    "title": "A nonuniqueness phase on every nonamenable transitive graph"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-af8cfa372baf20e8",
+    "potential_duplicates": [],
+    "title": "Does directional transience imply ballistic transport in an iid medium?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-615ae06c0f798ea8",
+    "potential_duplicates": [],
+    "title": "The directional zero–one law in three-dimensional random media"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-28c0d5a2c2504f30",
+    "potential_duplicates": [],
+    "title": "Selection of the carbon-monoxide poisoning phase"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cc8f46cb6d64d505",
+    "potential_duplicates": [],
+    "title": "Strong disorder versus a shifted pinning threshold"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-37c98cb1c5bfd424",
+    "potential_duplicates": [],
+    "title": "A continuous strictly decreasing moment spectrum for Gaussian polymers"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1447645e04a24a8f",
+    "potential_duplicates": [],
+    "title": "A uniform gap for the spin-one Heisenberg chain"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3dc599efec6c0360",
+    "potential_duplicates": [],
+    "title": "Bose condensation at fixed dilute density"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fc6120d6dcb3de2c",
+    "potential_duplicates": [],
+    "title": "An area law for general gapped two-dimensional spin systems"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3061b74a0c56b713",
+    "potential_duplicates": [],
+    "title": "The entropy photon-number inequality"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e2b5ff5ab5420e60",
+    "potential_duplicates": [],
+    "title": "Composing two PPT channels destroys all entanglement"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4f6b4dcb0817992b",
+    "potential_duplicates": [],
+    "title": "Can entangled codewords improve amplitude-damping classical capacity?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-74070646bd9f6a77",
+    "potential_duplicates": [],
+    "title": "Sharp Fourier extension from the sphere in three dimensions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-322e2e05926d901c",
+    "potential_duplicates": [],
+    "title": "Sharp Bochner–Riesz summability in three dimensions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9d9d74ed0a096446",
+    "potential_duplicates": [],
+    "title": "Sharp local smoothing for the three-dimensional wave equation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cb9375cc4759920a",
+    "potential_duplicates": [],
+    "title": "Boundary-flux commutators for rough conductors"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5fb18d416319946e",
+    "potential_duplicates": [],
+    "title": "Does subcritical heat flow always decay faster?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7d637a44af635bf2",
+    "potential_duplicates": [],
+    "title": "Uniqueness of entropy-admissible renormalized Boltzmann solutions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-791fb72f3f4136b3",
+    "potential_duplicates": [],
+    "title": "Global optimality of the Abrikosov triangular lattice"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7901457fc7b8a69c",
+    "potential_duplicates": [],
+    "title": "Asymptotic density of reflected wavefronts in a disk"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e7e450a50444a709",
+    "potential_duplicates": [],
+    "title": "Rigidity of a totally integrable Minkowski billiard in its own unit ball"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-91b5a0d504540b7b",
+    "potential_duplicates": [],
+    "title": "Global constrained null control of a two-phase Stefan interface"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-12bf9b9dc127ad74",
+    "potential_duplicates": [],
+    "title": "No asymptotic extinction in bounded weakly reversible mass-action kinetics"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8289ed8154fc64f1",
+    "potential_duplicates": [],
+    "title": "The Unique Games Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6d12b0f5a1b24907",
+    "potential_duplicates": [],
+    "title": "Interior smoothness of carrying simplices in competitive population maps"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6968b9eec96d48b7",
+    "potential_duplicates": [],
+    "title": "Exact complexity of unit-job precedence scheduling on three processors"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c8f9c0938bb2cf33",
+    "potential_duplicates": [],
+    "title": "Polynomial sample complexity for deletion-trace reconstruction"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d096ff6111121400",
+    "potential_duplicates": [],
+    "title": "Strong thin-tree conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d6f3f968f268b76d",
+    "potential_duplicates": [],
+    "title": "A constant bound for fixed-order prefix discrepancy"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-79793bceb6c8325d",
+    "potential_duplicates": [],
+    "title": "Accuracy of parsimony reconstruction under a molecular clock"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-db6d5079a27e57b3",
+    "potential_duplicates": [],
+    "title": "The modified integer round-up conjecture for cutting stock"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d0d72be07d9df2cc",
+    "potential_duplicates": [],
+    "title": "Nonexistence of subcritical Lane–Emden equilibria in higher dimensions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-441d972fff07bd2d",
+    "potential_duplicates": [],
+    "title": "Can every bounded entire Burgers profile recur at late times?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3458508eece0d5b5",
+    "potential_duplicates": [],
+    "title": "A genuinely periodic firing pattern in the delayed noisy integrate-and-fire PDE"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-94e693cdc46a07cd",
+    "potential_duplicates": [],
+    "title": "Continuation of the cutoff Boltzmann flow from macroscopic bounds"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6eeb51606d20145c",
+    "potential_duplicates": [],
+    "title": "A universal quantitative error bound for small-BV hyperbolic flows"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7c6f4f6fa2995ce2",
+    "potential_duplicates": [],
+    "title": "The zero center-of-mass diffusion limit for kinetic FENE fluids"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-13733f494bff52c5",
+    "potential_duplicates": [],
+    "title": "Uniqueness of strong-KPP equilibria on general unbounded domains"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1069ec374c5024cd",
+    "potential_duplicates": [],
+    "title": "Extinction at the critical Dirichlet eigenvalue for strong-KPP reactions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-88b5713fbb92f603",
+    "potential_duplicates": [],
+    "title": "Continuity of finite-cluster mass at the onset of Flory gelation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f9882d833f5cc2fc",
+    "potential_duplicates": [],
+    "title": "Uniqueness of positive reaction–diffusion equilibria outside two obstacles"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-eafe8fa7af461696",
+    "potential_duplicates": [],
+    "title": "Observability of an acoustic shell at equal bulk and surface speeds"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4a965bd9e476f099",
+    "potential_duplicates": [],
+    "title": "Boundary observation of a Schrödinger field with slower surface dispersion"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ac9ec2ac8efa2c7f",
+    "potential_duplicates": [],
+    "title": "The sharp local maneuvering time for a shallow-water tank"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-137436870ec79973",
+    "potential_duplicates": [],
+    "title": "Sharp weak integrability of planar Monge–Ampère Hessians"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-912bb1ab3131457e",
+    "potential_duplicates": [],
+    "title": "Affine Bernstein rigidity in dimensions three through nine"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-15c66f8ac32d5c4e",
+    "potential_duplicates": [],
+    "title": "Polynomial decay for KdV with three critical linear modes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-239d5e6c977643d9",
+    "potential_duplicates": [],
+    "title": "Boundary control to equilibrium for a parabolic obstacle problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0ef36651d9321d71",
+    "potential_duplicates": [],
+    "title": "Concentric-ball optimality for thermal insulation with radiative heat transfer"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-58df56f2f9dd23d2",
+    "potential_duplicates": [],
+    "title": "Continuity of manifold transport under MTW and convex injectivity domains"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bf26540212c90b60",
+    "potential_duplicates": [],
+    "title": "Logarithmic convexity for two coupled subdiffusion orders"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-400d73382087a47a",
+    "potential_duplicates": [],
+    "title": "Sharp exponential cost of fast boundary quantum control"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-79f0f0ddb10623d2",
+    "potential_duplicates": [],
+    "title": "Uniform convergence of value functions in local mean-field games"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-db79b1fb26acc369",
+    "potential_duplicates": [],
+    "title": "An algebraic vanishing-noise rate for kinetic mean-field games"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ff99650c7304d2ca",
+    "potential_duplicates": [],
+    "title": "Continuity of states driven by bounded admissible inputs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f4641aca9b017582",
+    "potential_duplicates": [],
+    "title": "Intercritical norm inflation for the dispersion-managed Schrödinger equation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1c384448f00af107",
+    "potential_duplicates": [],
+    "title": "Uniform control of Neumann advection–diffusion for non-gradient flows"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2fb6ec7547eb2d97",
+    "potential_duplicates": [],
+    "title": "Positive equilibrium attraction for an irreversible catalytic reaction"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fa12db993c5ed008",
+    "potential_duplicates": [],
+    "title": "Polynomial growth of reachable neighborhoods for analytic control systems"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4f84598addbbdafa",
+    "potential_duplicates": [],
+    "title": "Continuous gradients for three-dimensional infinity-harmonic functions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-74f9fe82c6caa336",
+    "potential_duplicates": [],
+    "title": "Reality of the spectrum for a spherical strip with PT-symmetric boundary conditions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-43962134819c2db4",
+    "potential_duplicates": [],
+    "title": "Excess Floquet multiplicity for complex periodic Schrödinger equations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4b06b3103e62d859",
+    "potential_duplicates": [],
+    "title": "An optimal Weyl remainder for interior transmission eigenvalues"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8afabf96ded1e0b9",
+    "potential_duplicates": [],
+    "title": "Analytic boundary diffusion on continuous functions for Lipschitz domains"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1999352052381dbb",
+    "potential_duplicates": [],
+    "title": "A nonlinear Weyl lemma at the minimal p-harmonic integrability threshold"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-994ce71be7dec94a",
+    "potential_duplicates": [],
+    "title": "Second-order Sobolev regularity of p-harmonic functions beyond the Cordes range"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d1050a405f9c86ce",
+    "potential_duplicates": [],
+    "title": "Global smooth propagation for a laser envelope coupled to ionization"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-55d0f0f01b25709f",
+    "potential_duplicates": [],
+    "title": "A uniform L3 estimate for the triangular Hilbert transform"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-30e6fee39e07f68b",
+    "potential_duplicates": [],
+    "title": "Almost-everywhere Fourier reconstruction of L log L signals"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d60e121b88635835",
+    "potential_duplicates": [],
+    "title": "Stein’s Hilbert-transform bound along Lipschitz directions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e6a295efdb9413a7",
+    "potential_duplicates": [],
+    "title": "A mixed Sobolev estimate for reconstructing a scalar potential"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-41f2c648a7f164a8",
+    "potential_duplicates": [],
+    "title": "A deterministic Hölder exponent for smooth-transport parabolic SPDEs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-dd949b257401aa9e",
+    "potential_duplicates": [],
+    "title": "Transport-noise Navier–Stokes at critical smoothness minus one half"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-46538ad384d2a583",
+    "potential_duplicates": [],
+    "title": "Uniqueness of positive harmonic profiles for singular stable operators in cones"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0c23825ae201a94d",
+    "potential_duplicates": [],
+    "title": "Comparison for viscosity solutions of infinity-fractional diffusion"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6d21110ffc6dca99",
+    "potential_duplicates": [],
+    "title": "Calderón–Zygmund estimates for general concave nonlocal equations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a691280307beee4a",
+    "potential_duplicates": [],
+    "title": "Continuity for degenerate fractional-pressure porous-medium flow"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e5ddd4ad0135ee4f",
+    "potential_duplicates": [],
+    "title": "The local limit of superlinear multispecies nonlocal diffusion"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0a920ec090a947f6",
+    "potential_duplicates": [],
+    "title": "Mass conservation for fractional porous-medium flow on noncompact manifolds"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8c7b9630453202a9",
+    "potential_duplicates": [],
+    "title": "Point-source solutions of fractional porous-medium diffusion on manifolds"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-dc9e9f738bb2ed82",
+    "potential_duplicates": [],
+    "title": "Global regularity for critical SQG with state-dependent noise"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8d0c37a8dc8fd787",
+    "potential_duplicates": [],
+    "title": "Finite propagation in fourth-order aggregation–diffusion"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5448148ec4e05784",
+    "potential_duplicates": [],
+    "title": "Unconditional uniqueness for entropy-dissipating reaction–diffusion"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e655bc96eafe4579",
+    "potential_duplicates": [],
+    "title": "Optimal obstacle regularity for stable jump kernels with only angular integrability"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0b89d386c6d8e82a",
+    "potential_duplicates": [],
+    "title": "Global attraction in D-stable Lotka–Volterra systems"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f1e0c90ec8bda7d0",
+    "potential_duplicates": [],
+    "title": "Universality of the interleaving distance over arbitrary fields"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-70b7120ea56f5cb5",
+    "potential_duplicates": [],
+    "title": "Injectivity of the Rips shadow map on fundamental groups"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ce9f8c1fc5224325",
+    "potential_duplicates": [],
+    "title": "Ergodicity of higher-dimensional Ising clumps"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5679eadf802cecd1",
+    "potential_duplicates": [],
+    "title": "Integral optimal flat-norm decompositions in codimension one"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e7c0411f2c0fc374",
+    "potential_duplicates": [],
+    "title": "Exponential excursion tails for topology-preserving Ising disks"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8952024f9f9164ac",
+    "potential_duplicates": [],
+    "title": "A discrete Aronson–Bénilan estimate for an upwind growth scheme"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c4ff8797155934d6",
+    "potential_duplicates": [],
+    "title": "Minimax rates for private density estimation with mixed anisotropy"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-57f4ea1e0a2986ff",
+    "potential_duplicates": [],
+    "title": "Sharp interactive privacy rates for spectral density estimation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-11e3ec42fcc27ee6",
+    "potential_duplicates": [],
+    "title": "The first Rips homotopy transition for higher-dimensional spheres"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fbe4c70232a4f262",
+    "potential_duplicates": [],
+    "title": "The centre-rank formula for aspherical motion planning"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c6538dcadfbf9b15",
+    "potential_duplicates": [],
+    "title": "Maximal motion-planning complexity of aspherical connected sums"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-19cde632b56ac5fc",
+    "potential_duplicates": [],
+    "title": "Consistency of the Greedy Sparsest Poset algorithm"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-83d2c6b8658cd259",
+    "potential_duplicates": [],
+    "title": "Tail bounds for causal equivalence classes of uniform random DAGs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ccfb956d7aa77cc1",
+    "potential_duplicates": [],
+    "title": "Sharp local approximation widths for rough elliptic equations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4c700b3b0b34cea2",
+    "potential_duplicates": [],
+    "title": "Removing the logarithmic loss in the Li–Wu KdV integrator"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-22121cffb463fdba",
+    "potential_duplicates": [],
+    "title": "Universal identities for Euclidean mechanical Lie brackets"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-840c070f4a17a076",
+    "potential_duplicates": [],
+    "title": "Coarse Hilbert embeddings of persistence diagrams"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-463093a946ff7c52",
+    "potential_duplicates": [],
+    "title": "Six-point persistence on the Euclidean two-sphere"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-eaa34f7ef049f8d5",
+    "potential_duplicates": [],
+    "title": "Removing the logarithmic loss in Helmholtz Nyström estimates"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f724ff9164b81824",
+    "potential_duplicates": [],
+    "title": "Maximal TC weight from positive homological norm"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-763c980ec2d21270",
+    "potential_duplicates": [],
+    "title": "Existence for adaptive porous flow with a negative drag jump"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0c7bec974dc0c4d7",
+    "potential_duplicates": [],
+    "title": "Limiting Betti-number distributions in preferential-attachment networks"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ead86fc60f2248f2",
+    "potential_duplicates": [],
+    "title": "Homology at the second transition of torus-grid Rips complexes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-55697d55081a8f1b",
+    "potential_duplicates": [],
+    "title": "Homotopy type of torus-grid Rips complexes at half the diameter"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-54e0132a56d502ba",
+    "potential_duplicates": [],
+    "title": "Triangle inequality for the pullback distance of verbose persistence barcodes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-24c3a9bc288c41cc",
+    "potential_duplicates": [],
+    "title": "Betti numbers of a persistence fiber with no finite bars"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-37b6a4f971e2c676",
+    "potential_duplicates": [],
+    "title": "Sharp barrier-parameter growth for hyperbolic balls"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-aa4745eb3cac7bb4",
+    "potential_duplicates": [],
+    "title": "Simplices maximize the isotropic constant"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-58ede1ee0449c4fe",
+    "potential_duplicates": [],
+    "title": "Minimal persistence grids versus homological Morse lower bounds"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4bffc77caa1e8838",
+    "potential_duplicates": [],
+    "title": "Minimum number of continuous adaptive measurements for vector recovery"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9c81fc9d475014bc",
+    "potential_duplicates": [],
+    "title": "Sharp asymptotic constant for rational approximation of fractional inverse powers"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b788a36f6b734c02",
+    "potential_duplicates": [],
+    "title": "Maximal gain from randomization with nonadaptive linear measurements"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6f60716924b8e864",
+    "potential_duplicates": [],
+    "title": "Does integration of uniformly derivative-bounded analytic functions suffer the dimensional curse?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0f04667be683d8be",
+    "potential_duplicates": [],
+    "title": "Deciding nonnegativity of unnormalized univariate trace polynomials"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0ed6707eea2efe4a",
+    "potential_duplicates": [],
+    "title": "A fixed-time lower bound for Trotter splitting of the hydrogen ground state"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-19f9be5c92f26b80",
+    "potential_duplicates": [],
+    "title": "Sharp least-singular-value bounds for independent random tensor columns"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e1aeb85937f44cc9",
+    "potential_duplicates": [],
+    "title": "Asymmetry at the Macbeath point of a convex body"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9d6c798119fe3a3f",
+    "potential_duplicates": [],
+    "title": "The cost of continuous reconstruction on Banach unit balls"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-337a160dc16af697",
+    "potential_duplicates": [],
+    "title": "Counting Ehrhart quasipolynomials of half-integral polygons"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-05ff04a6e8db6ecc",
+    "potential_duplicates": [],
+    "title": "Draws in the undirected trapping game on percolation clusters"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0301717d17ecc927",
+    "potential_duplicates": [],
+    "title": "Uniform covariance bounds for constrained Ising replicas"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7581a8795b975e4d",
+    "potential_duplicates": [],
+    "title": "Strong freeness for one random interaction on overlapping tensor legs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f4b1a5b54324abc8",
+    "potential_duplicates": [],
+    "title": "A real nearest matrix with spectrum in the closed left half-plane"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e9fbebb7eeb751c4",
+    "potential_duplicates": [],
+    "title": "Full Sobolev invertibility range for Hausdorff-measure screen operators"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-daa657a15fbb4601",
+    "potential_duplicates": [],
+    "title": "Automorphism-invariant one-dependent colorings of regular trees"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-177e8552e8371731",
+    "potential_duplicates": [],
+    "title": "Extending a symmetric one-dependent four-color law across a branch"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-371ad38f5fae393d",
+    "potential_duplicates": [],
+    "title": "Sidorenko's lower bound for bipartite homomorphism counts"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cefaf046a862696b",
+    "potential_duplicates": [],
+    "title": "A linear threshold for extracting a segment grid"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-29bab1d4b5146573",
+    "potential_duplicates": [],
+    "title": "A bounded number of flat transversals for fat convex sets"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ee7c4c32c5c95897",
+    "potential_duplicates": [],
+    "title": "Entropy chain rule on nonsmooth nonconvex Lipschitz domains"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-36af39252c674ccb",
+    "potential_duplicates": [],
+    "title": "A linear genus–girth bound for facial cycles"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-16b42167300eaa65",
+    "potential_duplicates": [],
+    "title": "Optimal uniform observation time for mixed finite element waves"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-753bcd602c1a2f83",
+    "potential_duplicates": [],
+    "title": "Nill's facet bound for reflexive lattice polytopes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8c415aad2885465d",
+    "potential_duplicates": [],
+    "title": "Fourth-order diffusion approximation for three-player ruin"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-29896f5642033f76",
+    "potential_duplicates": [],
+    "title": "Spanning triangulated spheres with holes in surface triangulations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-560e2cf751c3aa09",
+    "potential_duplicates": [],
+    "title": "Smallest orders for periodic multidimensional Costas arrays"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-eb1dbc83b23be785",
+    "potential_duplicates": [],
+    "title": "Odd Euler characteristic for flag-no-square four-manifolds"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-876ae905ce52b33b",
+    "potential_duplicates": [],
+    "title": "Characterizing discrete sets generated by fixed-parameter extrapolation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-69794ed6317f0e91",
+    "potential_duplicates": [],
+    "title": "Relative density of sets generated by fixed-parameter extrapolation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c69c5dad8f76dea2",
+    "potential_duplicates": [],
+    "title": "Local potential bases on Freudenthal meshes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cdcce0c3732fbf19",
+    "potential_duplicates": [],
+    "title": "Small mod-two area cycles in drawings with bounded pairwise intersections"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-72b5fcbed4cad16a",
+    "potential_duplicates": [],
+    "title": "A uniform Gaussian approximation bound for Jack measures"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2cecffbb53f0aca9",
+    "potential_duplicates": [],
+    "title": "Absolute continuity of stationary Elo ratings"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-15a174ea5d627dd7",
+    "potential_duplicates": [],
+    "title": "Strong convergence rate of the fractional WIS Euler integrator"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-17585463ac8ed0e1",
+    "potential_duplicates": [],
+    "title": "Coboundary expansion of random balanced Cayley complexes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d87951c23e7b9e42",
+    "potential_duplicates": [],
+    "title": "Zero in the upper-Laplacian spectrum of low-degree simplicial complexes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-29ff2f471faa82a2",
+    "potential_duplicates": [],
+    "title": "Topological complexity in the homogeneous medial regime for all sample sizes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8edad26b7b329a12",
+    "potential_duplicates": [],
+    "title": "A finite three-ample complex with nontrivial fundamental group"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6848833bef874705",
+    "potential_duplicates": [],
+    "title": "Connectivity when the last isolated point disappears in a polytope"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-59c330b3e886b532",
+    "potential_duplicates": [],
+    "title": "Location of the most isolated point in a random polyhedral sample"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-103fee9b1ebc0f13",
+    "potential_duplicates": [],
+    "title": "Vanishing threshold for first path homology of a random digraph"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c9fd8f0b9fc3a0fc",
+    "potential_duplicates": [],
+    "title": "Central limit theorem for the first path Betti number"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-724ad7b1352d7f6d",
+    "potential_duplicates": [],
+    "title": "The Robin fundamental gap conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7f52444fd950c506",
+    "potential_duplicates": [],
+    "title": "Exponential interior decay for smooth Steklov domains"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ecc530091f50080d",
+    "potential_duplicates": [],
+    "title": "Bounded harmonic lifting for complex media"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-739bb59d84127105",
+    "potential_duplicates": [],
+    "title": "Logarithmic convexity for subdiffusion with non-gradient drift"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-574f8797ce6497a5",
+    "potential_duplicates": [],
+    "title": "Poisson kernel bounds for elliptic boundary diffusion on Lipschitz domains"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-941cb3bd59d35564",
+    "potential_duplicates": [],
+    "title": "Finite-density time sampling of an infinite observation window"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-94c17b93dcd70d31",
+    "potential_duplicates": [],
+    "title": "Does directional ellipticity force a fractional energy bound?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9cc89a4c2ff14002",
+    "potential_duplicates": [],
+    "title": "Full-space minimizers for subcritical fourth-order aggregation energy"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6c524a3dd52731a4",
+    "potential_duplicates": [],
+    "title": "Small-ball ratios for general symmetric product priors"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3f06a5d9d2947efb",
+    "potential_duplicates": [],
+    "title": "Path connectivity of the infinity Z-Gromov–Wasserstein space"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-56cf2c6f054eb6b4",
+    "potential_duplicates": [],
+    "title": "Variance ordering for Gaussian alpha-divergence approximations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9fac8670cf20b425",
+    "potential_duplicates": [],
+    "title": "Monotone variance in the Gaussian approximation to DrMMD flow"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-85efbcb796d6e27b",
+    "potential_duplicates": [],
+    "title": "Logarithmic controlled bandwidth for locally analytic functions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7efb210475e80b9d",
+    "potential_duplicates": [],
+    "title": "Smooth-gradient approximation of finite-Fisher-information scores"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8fcd12fb6b58fbb2",
+    "potential_duplicates": [],
+    "title": "SIC measurements in every finite dimension"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5ac4a3799749af22",
+    "potential_duplicates": [],
+    "title": "Quadratic-scale bit complexity for well-conditioned sparse systems"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-58781b1440b0bbc9",
+    "potential_duplicates": [],
+    "title": "The dimension-free Kannan–Lovász–Simonovits inequality"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ed90f899614c777e",
+    "potential_duplicates": [],
+    "title": "A universal bound on excess molecular charge"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-add0166a289dbdda",
+    "potential_duplicates": [],
+    "title": "Uniqueness of the critical catenoid"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-df54099ab4eb368d",
+    "potential_duplicates": [],
+    "title": "Linear growth of interior Steklov nodal volume"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-88898e0822930eb4",
+    "potential_duplicates": [],
+    "title": "Unbounded first Steklov multiplicity with fixed boundary count"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bb1bb27d0e4459da",
+    "potential_duplicates": [],
+    "title": "Sard conjecture for smooth bracket-generating distributions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d50d92f27c5c8202",
+    "potential_duplicates": [],
+    "title": "Nonbranching of analytic equiregular sub-Riemannian geodesics"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-484f560200f12598",
+    "potential_duplicates": [],
+    "title": "Pansu's isoperimetric conjecture in the Heisenberg group"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-294da61a43ab691c",
+    "potential_duplicates": [],
+    "title": "Does supercritical percolation preserve transience?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-22c7d17a642fbe55",
+    "potential_duplicates": [],
+    "title": "The bosonic Laughlin contact-interaction gap"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4277faa4a5a89481",
+    "potential_duplicates": [],
+    "title": "Optimal spectral signings of regular graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-30bc793a3db0ef0a",
+    "potential_duplicates": [],
+    "title": "Uniqueness of a hemispheric saddle profile on a magnetic sphere"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a555554cb8b9173a",
+    "potential_duplicates": [],
+    "title": "A periodic nonsingular billiard trajectory in every triangle"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-82362a3d5bf77330",
+    "potential_duplicates": [],
+    "title": "The Li–Li multiple-unicast conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a6788ddcc35869b8",
+    "potential_duplicates": [],
+    "title": "The sharp matroid secretary conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-244d15488c30887f",
+    "potential_duplicates": [],
+    "title": "Decidability of local asymptotic stability for polynomial ODEs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8bf3ab4e9f51df32",
+    "potential_duplicates": [],
+    "title": "The modern integer 3SUM conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ea03f1921985c22c",
+    "potential_duplicates": [],
+    "title": "Additivity of entanglement of purification"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5e9f7e79ac8ed5d4",
+    "potential_duplicates": [],
+    "title": "Non-explosion of Brownian Fleming–Viot systems in arbitrary domains"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-eb0579f22356ca2f",
+    "potential_duplicates": [],
+    "title": "Can one-dimensional entropy-dissipating systems have two bounded solutions?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a75ecccd3cb2554d",
+    "potential_duplicates": [],
+    "title": "Regularity of transport interfaces for nonconvex polyhedral targets"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6af8e9f5c2868c12",
+    "potential_duplicates": [],
+    "title": "Singular-set dimension of polyhedral partial-transport free boundaries"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6dd8194ab9e3b309",
+    "potential_duplicates": [],
+    "title": "Villani’s convex-injectivity-domain conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7d91796f380cb3ae",
+    "potential_duplicates": [],
+    "title": "Sharp vanishing-viscosity control time for downstream transport"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-330ad8cd35976f87",
+    "potential_duplicates": [],
+    "title": "The sharp Beurling–Ahlfors bound for planar elliptic systems"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7971ee08dbbcdbde",
+    "potential_duplicates": [],
+    "title": "A finite-integrability ABP estimate for general nonlocal Pucci operators"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0c717f9cc7a25ef2",
+    "potential_duplicates": [],
+    "title": "Counting half-integral polygons with collinear interior lattice points"
   }
 ]

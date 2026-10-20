@@ -1,4 +1,5 @@
 """Standard-library-only GitHub indexer. Records source claims, never mathematical truth."""
+from aim_adapter import collect_aim_resolved
 from readme_adapter import collect_readme_index
 import argparse, datetime as dt, hashlib, json, os, re, sys, time
 from pathlib import Path
@@ -17,7 +18,7 @@ def urlkey(url):
  p=urlsplit(url)
  if p.scheme!='https' or not p.hostname: raise ValueError('invalid https URL: '+url)
  # Preserve query: DOI/resolver parameters may encode record identity.
- return urlunsplit(('https',p.netloc.lower(),p.path.rstrip('/'),p.query,''))
+ return urlunsplit(('https',p.netloc.lower(),p.path.rstrip('/'),p.query,p.fragment))
 def api(path, token=None, optional=False):
  url='https://api.github.com/'+path.lstrip('/')
  headers={'Accept':'application/vnd.github+json','User-Agent':'open-math-progress-indexer','X-GitHub-Api-Version':'2022-11-28'}
@@ -27,7 +28,7 @@ def api(path, token=None, optional=False):
   try:
    with urlopen(req,timeout=22) as response: return json.load(response)
   except HTTPError as e:
-   if optional and e.code in (403,404,410):return None
+   if optional and e.code in (404,410):return None
    if e.code in (429,500,502,503,504) and trial<2:time.sleep(2*(trial+1));continue
    raise RuntimeError(f'GitHub API {e.code}: {url}') from e
   except (URLError,TimeoutError) as e:
@@ -46,7 +47,7 @@ def collect_issues(s, token):
  for page in range(1,6):
   issues=api(f'repos/{repo}/issues?state=all&per_page=100&page={page}',token,optional=True)
   if issues is None:
-   print(f'SKIP {repo}: unavailable or access restricted',file=sys.stderr);break
+   raise RuntimeError(f'{repo}: Issues endpoint unavailable; not an empty index')
   for x in issues:
    if 'pull_request' in x:continue
    labels=[v['name'].lower() for v in x.get('labels',[])]
@@ -65,7 +66,7 @@ def ingest(items,problems,claims,stamp):
   if key not in ci:
    if pid not in pi:
     p={'id':pid,'title':x['title'][:500],'canonical_status':'not_assessed','potential_duplicates':[]};problems.append(p);pi[pid]=p
-   c={'id':key,'problem_id':pid,'source':{'url':url,'repository':x['repository'],'reported_status':st,'first_observed':stamp,'last_observed':stamp,'source_updated_at':x.get('source_updated_at')},'verification':{'independent_check':'not_assessed'},'ai_involvement':x.get('ai_involvement','unknown'),'reported_outcome':x.get('reported_outcome'),'reported_evidence':x.get('reported_evidence'),'status_history':[{'status':st,'observed_at':stamp}]}
+   c={'id':key,'problem_id':pid,'source':{'url':url,'repository':x['repository'],'reported_status':st,'first_observed':stamp,'last_observed':stamp,'source_updated_at':x.get('source_updated_at')},'verification':{'independent_check':'not_assessed'},'ai_involvement':x.get('ai_involvement','unknown'),'reported_outcome':x.get('reported_outcome'),'reported_evidence':x.get('reported_evidence'),'source_collection_category':x.get('source_collection_category'),'status_history':[{'status':st,'observed_at':stamp}]}
    claims.append(c);ci[key]=c
   else:
    c=ci[key];src=c['source'];c['reported_outcome']=x.get('reported_outcome',c.get('reported_outcome'));c['reported_evidence']=x.get('reported_evidence',c.get('reported_evidence'))
@@ -123,12 +124,12 @@ def validate():
 
 def generate():
  problems=read('problems');claims=read('claims');notices=read('notices')
- lines=['# Mathematical Research Index','','**Source-reported claims, not independently verified mathematical results.**','','| Problem | Source-reported status | Original source |','|---|---|---|']
+ lines=['# Mathematical Research Index','','**Source-reported claims, not independently verified mathematical results.**','','| Problem | Reported outcome | Source-reported status | OMP assessment | Original source |','|---|---|---|---|---|']
  prob={p['id']:p for p in problems}
  for c in sorted(claims,key=lambda x:(prob[x['problem_id']]['title'].lower(),x['id'])):
   title=prob[c['problem_id']]['title'].replace('|','\\|').replace('\n',' ')
-  source=c['source'];lines.append(f'| {title} | {source["reported_status"]} | [Original]({source["url"]}) |')
- if not claims:lines.append('| No indexed claims yet | — | — |')
+  source=c['source'];lines.append(f'| {title} | {str(c.get("reported_outcome") or "Not specified").replace(chr(124), "/")} | {source["reported_status"]} | Not assessed | [Original]({source["url"]}) |')
+ if not claims:lines.append('| No indexed claims yet | — | — | — | — |')
  (ROOT/'docs/INDEX.md').write_text('\n'.join(lines)+'\n',encoding='utf8')
  history=[]
  for c in claims:
@@ -150,10 +151,10 @@ def sync():
  for s in sources:
   if not s.get('enabled',True):continue
   try:
-   if s.get('mode') not in ('issues', 'readme_index'):
+   if s.get('mode') not in ('issues', 'readme_index', 'aim_resolved'):
     print('SKIP unsupported adapter',s['repo']);continue
-   incoming=(collect_readme_index(s,token) if s.get('mode')=='readme_index' else collect_issues(s,token));ingest(incoming,problems,claims,stamp);success+=1
-   print('SYNC',s['repo'],len(incoming))
+   incoming=(collect_readme_index(s,token) if s.get('mode')=='readme_index' else collect_aim_resolved(s,token) if s.get('mode')=='aim_resolved' else collect_issues(s,token));ingest(incoming,problems,claims,stamp);success+=1
+   print('SYNC',s['repo'], 'fetched='+str(len(incoming)), 'stored_claims='+str(len(claims)))
   except Exception as e:failed.append(f'{s["repo"]}: {e}');print('ERROR',failed[-1],file=sys.stderr)
  if success:
   write('problems',problems);write('claims',claims)

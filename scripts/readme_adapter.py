@@ -82,8 +82,9 @@ def collect_readme_index(source, token=None):
             "repository": repo,
             "status": "claimed_solved",
             "reported_outcome": outcome,
+            "source_collection_category": "ai-math-curated-index",
             "reported_evidence": remainder[:2000],
-            "ai_involvement": "reported",
+            "ai_involvement": "unknown",
             "source_updated_at": None,
         })
 

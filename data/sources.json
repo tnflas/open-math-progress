@@ -8,7 +8,8 @@
       "partial-progress",
       "retracted"
     ],
-    "enabled": true
+    "enabled": true,
+    "coverage_note": "Issues-label adapter only; structured feed adapter pending."
   },
   {
     "repo": "bonninr/awesome-ai-solved-math",
@@ -23,7 +24,7 @@
   },
   {
     "repo": "MColbrook/AIM",
-    "mode": "issues",
+    "mode": "aim_resolved",
     "labels": [
       "solved",
       "resolved",
@@ -41,6 +42,7 @@
       "partial-progress",
       "retracted"
     ],
-    "enabled": true
+    "enabled": false,
+    "coverage_note": "Manuscript list; no automatic solved inference. Adapter pending."
   }
 ]
