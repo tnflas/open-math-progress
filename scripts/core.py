@@ -42,6 +42,10 @@ def status(labels):
  return None
 
 def collect_issues(s, token):
+ if s.get("repo") == "cyanseek/VibeMath":
+  from vibemath_adapter import collect_vibemath
+  return collect_vibemath(s, token)
+
  """Only explicit label-based claims. Closed issues without labels are NOT solved."""
  repo=s['repo']; valid=set(s.get('labels',[]));out=[]
  for page in range(1,6):

@@ -22,7 +22,9 @@
   {
     "canonical_status": "not_assessed",
     "id": "OMP-f32879508f6f0111",
-    "potential_duplicates": [],
+    "potential_duplicates": [
+      "OMP-b9b7f82781968404"
+    ],
     "title": "Graffiti conjecture 284"
   },
   {
@@ -78,7 +80,9 @@
   {
     "canonical_status": "not_assessed",
     "id": "OMP-b059f69448cb7b17",
-    "potential_duplicates": [],
+    "potential_duplicates": [
+      "OMP-6e5cfb5aab8d095f"
+    ],
     "title": "Dinitz–Garg–Goemans conjecture"
   },
   {
@@ -102,7 +106,9 @@
   {
     "canonical_status": "not_assessed",
     "id": "OMP-e7a4026af1aaaac4",
-    "potential_duplicates": [],
+    "potential_duplicates": [
+      "OMP-ce9742067efe01b6"
+    ],
     "title": "Gaussian Moments conjecture"
   },
   {
@@ -204,7 +210,9 @@
   {
     "canonical_status": "not_assessed",
     "id": "OMP-b4fa0b531753e807",
-    "potential_duplicates": [],
+    "potential_duplicates": [
+      "OMP-78bc56fe2c3e616e"
+    ],
     "title": "Graffiti conjecture 143"
   },
   {
@@ -1704,5 +1712,3689 @@
     "id": "OMP-0c717f9cc7a25ef2",
     "potential_duplicates": [],
     "title": "Counting half-integral polygons with collinear interior lattice points"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-212bb95e20a35e13",
+    "potential_duplicates": [],
+    "title": "Mahler's $Z$-number problem in its generalized form"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9469de3570ef8353",
+    "potential_duplicates": [],
+    "title": "Nontriviality of number-restricted arithmetic over subDMQ"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9e5df4a455a02ee2",
+    "potential_duplicates": [],
+    "title": "Normality of a sum of two Stoneham constants"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bae6747b73f46850",
+    "potential_duplicates": [],
+    "title": "The Hilbert transform-UMD dependence problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9fb4927f94e375ba",
+    "potential_duplicates": [],
+    "title": "Binary normality of a localized logarithm value"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4fc1aae440e9773e",
+    "potential_duplicates": [],
+    "title": "Minimum-Rank and Mortality Bounds for Finite Real Matrix Monoids"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d2a31462727c4bb2",
+    "potential_duplicates": [],
+    "title": "Finite-time blowup for the IPM equation with a uniformly space-time smooth force"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e133ca132cdf1406",
+    "potential_duplicates": [],
+    "title": "The ceiling of the single-letter entropy method for the union-closed sets conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0c9c67be9e4918a5",
+    "potential_duplicates": [],
+    "title": "Finite-time blowup for the 3D incompressible Euler equations with smooth forcing"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9076ecdfb0b1e98e",
+    "potential_duplicates": [],
+    "title": "Finite-time blowup for the inviscid Boussinesq system with smooth forcing"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ae902d1a0cc30fa8",
+    "potential_duplicates": [],
+    "title": "An improved lower bound for the Shannon capacity of $C_{11}$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-95e9434d870470a6",
+    "potential_duplicates": [],
+    "title": "Reciprocal Fermat Constant is Nonnormal"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b14d17121ef0a150",
+    "potential_duplicates": [],
+    "title": "Reciprocal-triple-free sets: the finite plateau at 732"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9aba57ab77d27e04",
+    "potential_duplicates": [],
+    "title": "Lower bound for the complex Grothendieck constant"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-069664ca953aa482",
+    "potential_duplicates": [],
+    "title": "Koizumi–Liu Eventual Sign Alternation Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8dedddaa01899a7b",
+    "potential_duplicates": [],
+    "title": "A 44-vertex triangulation of $\\mathbb{RP}^{6}$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-439f97e72309a147",
+    "potential_duplicates": [],
+    "title": "Optimality of the added-vector code in the 19-dimensional kissing construction"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-66494325f5956ecc",
+    "potential_duplicates": [],
+    "title": "Prime Gaps at Most 186"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-381e01551bc506da",
+    "potential_duplicates": [],
+    "title": "A new bound for small gaps between primes: $H_1 \\le 212$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ad4f5bf135ad61a5",
+    "potential_duplicates": [],
+    "title": "Improved maximal prime-gap lower bound"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-aa4d8c3d653e9684",
+    "potential_duplicates": [],
+    "title": "The Daykin–Frankl conjecture on convex subsets of the Boolean lattice"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ef056ffcca58c353",
+    "potential_duplicates": [],
+    "title": "Anari's Bethe permanent conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-dd867906e02f9df9",
+    "potential_duplicates": [],
+    "title": "Depth-1 distinctness for pseudorandom unitaries"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7c50d64a6921eedb",
+    "potential_duplicates": [],
+    "title": "Logarithmic basis number of graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cbffac463841857b",
+    "potential_duplicates": [],
+    "title": "A Smooth Counterexample to the Trautman Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-adcb695043d4e2f3",
+    "potential_duplicates": [],
+    "title": "A Quantum Oracle Separation Between $\\mathsf{QMA}(2)$ and $\\mathsf{QMA}$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f810522788248132",
+    "potential_duplicates": [],
+    "title": "Interior Curvature Estimates for the Graphical Scalar Curvature Equation in All Dimensions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ae9cd9426b2ec795",
+    "potential_duplicates": [],
+    "title": "Common Neighbour Conjectures for Saxl Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-af0519b1de38cbbd",
+    "potential_duplicates": [],
+    "title": "Measures on Partial Orders"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-324f7e7802e88f35",
+    "potential_duplicates": [],
+    "title": "Exact rank and Smith profile of affine incidence over $\\mathbb Z/p^3\\mathbb Z$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-93299ac1bc5714ec",
+    "potential_duplicates": [],
+    "title": "McKean Entropy-Production Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-08d3d590fad44465",
+    "potential_duplicates": [],
+    "title": "Erdős matching conjecture: the four-uniform case"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8800d308357546a1",
+    "potential_duplicates": [],
+    "title": "A Counterexample to the Stable Forking Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8046b363d82422a2",
+    "potential_duplicates": [],
+    "title": "$(\\xi\\alpha^n)_{n\\ge1}$ is not uniformly distributed modulo one for Pisot $\\alpha$ and $\\xi$ in the Cantor set $C(\\alpha)$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5fdfb775f590257a",
+    "potential_duplicates": [],
+    "title": "Unrestricted Boolean multiplicative complexity of four-term binary polynomial multiplication"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b7b8db72aca4c8f0",
+    "potential_duplicates": [],
+    "title": "A complex structure on $S^2\\times S^4$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-805e5aea49c76ada",
+    "potential_duplicates": [],
+    "title": "Improving Randomized Metric Distortion to 2.3282"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0da9f7bba0e3966d",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #126: prime divisors of pairwise sums"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-17faf0aba042dd62",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #74: locally almost bipartite graphs of infinite chromatic number"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f22d46c5466f8deb",
+    "potential_duplicates": [],
+    "title": "Non-MF groups and non-finite full group C*-algebras"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ec325e14785cb800",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1: sum-distinct sets"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-df05b19f2c069349",
+    "potential_duplicates": [],
+    "title": "Supporting affine functionals for Entanglement of Formation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bddd7c52e334cb04",
+    "potential_duplicates": [],
+    "title": "Large systoles in every sufficiently large genus"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ddccce98d69b676e",
+    "potential_duplicates": [],
+    "title": "The Lyons–White conjecture: rate-monotonicity of $\\ell^{2m}$ distances for random walks on dihedral groups"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-646f1ba5435b439f",
+    "potential_duplicates": [],
+    "title": "Failure of Higher-Order Truth within Intuitionistic Propositional Logic"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-10f755c312c63b1e",
+    "potential_duplicates": [],
+    "title": "An Exact All-Width Plateau for the Three-Summand Tu-Deng Count modulo $2^k-1$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e59dca45216ec954",
+    "potential_duplicates": [],
+    "title": "Graffiti Conjecture 806"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fbd33af1a185d3ee",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #571: rational exponents for bipartite Turán numbers"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-84aa4ee14698f421",
+    "potential_duplicates": [],
+    "title": "Rapid mixing for spin systems on graphs of girth at least five"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0304f65e9452ff77",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #548: the Erdős–Sós conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-316995875764b3b1",
+    "potential_duplicates": [],
+    "title": "Exact rank and Smith profile of affine incidence over $\\mathbb Z/p^2\\mathbb Z$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e3ec34ac3d263c83",
+    "potential_duplicates": [],
+    "title": "Sparse domination implies convex body domination"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ac00aeb0c85b8a26",
+    "potential_duplicates": [],
+    "title": "Fröberg’s conjecture for quintics and septics in four variables"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6cd588c808d8a127",
+    "potential_duplicates": [],
+    "title": "A tilted residue-class construction for long prime-free intervals"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-64ad892ce22287cc",
+    "potential_duplicates": [],
+    "title": "Equivalence of generic stability notions for Keisler measures"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-93ca1b602105e907",
+    "potential_duplicates": [],
+    "title": "Entropy of Bernoulli Measures Conditioned on Affine Subspaces and a Problem of Ancheta-Massey"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c6c97d9e943017d2",
+    "potential_duplicates": [],
+    "title": "Nevanlinna’s half-plane omitted-values problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a2ce7abf0e8a8a5f",
+    "potential_duplicates": [],
+    "title": "A Rank-$31$ Record for an Elliptic Curve over $\\mathbb{Q}$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-dd88f0bbf9f4c918",
+    "potential_duplicates": [],
+    "title": "Bounded mass property for compact complex manifolds"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-eacc7ed2e8559c41",
+    "potential_duplicates": [],
+    "title": "The stable commutator length of a relator is not a one-relator group invariant"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8e2ee47d5f47906b",
+    "potential_duplicates": [],
+    "title": "Record Rank for an Elliptic Curve over $\\mathbb{Q}$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-085e744102a7a21c",
+    "potential_duplicates": [],
+    "title": "A Conjecture on Triple Counts for the Kasami APN Function"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-115fbdb8db40a4b9",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #501: infinite independent sets for families of small outer measure"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-daefecf5c50ba7af",
+    "potential_duplicates": [],
+    "title": "Separation Between the Ordinary and Strong Kreiss Constants"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ebfe5207516fbc73",
+    "potential_duplicates": [],
+    "title": "Stein’s dimension-free weak-(1,1) Riesz transform problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ae1743ec6a8c6e28",
+    "potential_duplicates": [],
+    "title": "Fourth-moment conjectures for Rademacher sums"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4a2db4fbafb171c0",
+    "potential_duplicates": [],
+    "title": "The Matrix Multiplication Exponent"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7d010147a7cc04ad",
+    "potential_duplicates": [],
+    "title": "A 32-leaf tree requiring six coordinates for an isometric $\\ell_\\infty$ embedding"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-25c6b3d250e61f52",
+    "potential_duplicates": [],
+    "title": "Talagrand’s convolution conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3f87e6172ff9563c",
+    "potential_duplicates": [],
+    "title": "Composites Among $[\\xi 7^n]$ and Right-Truncatable Primes in Base 7"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-06f0af207d2c0ff3",
+    "potential_duplicates": [],
+    "title": "Neuen-Grohe Problem: Isomorphism of Tournaments with Bounded VC Dimension"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-70b866d1cccf5224",
+    "potential_duplicates": [],
+    "title": "Score-Determined Induced Tournament Statistics: an All-Orders Classification"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9cd3f9da8287e3df",
+    "potential_duplicates": [],
+    "title": "Lorist-Schwenninger Remark 2 positivity question"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-30b5bb30ed13b3f7",
+    "potential_duplicates": [],
+    "title": "The 4-Color Rado Number of $x+y+c=z$: $R(c)=40c+41$ Whenever $c+1$ Is Divisible by 3, 4, 5 or 7"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-860af7ccb7ac320f",
+    "potential_duplicates": [],
+    "title": "Sivaraman's Perfect-Divisibility Characterization Question"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1f8aebc86b78101f",
+    "potential_duplicates": [],
+    "title": "Convergence of Three-Block ADMM with Identity Third Block"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1f78722adce4ecaf",
+    "potential_duplicates": [],
+    "title": "Exact order-three ambiguity of the Einstein-Maxwell-dilaton coupling $a^2$ in metric jets, and its fourth-order collapse"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-941adab72e4c6f0d",
+    "potential_duplicates": [],
+    "title": "Pavez-Signe's Length-Control Question for Spanning Subdivisions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fd3a3ffb39710d21",
+    "potential_duplicates": [],
+    "title": "The Cone Theorem for Effective Fourfold Pairs in Characteristic $p > 5$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8b1c333147f86b9d",
+    "potential_duplicates": [],
+    "title": "The Quartic Hessian Conjecture in Dimension Four"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-40796e4ccf23636e",
+    "potential_duplicates": [],
+    "title": "Tarizadeh's Conjecture on the Maximality of Purely-Prime Ideals"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6df9ffb261cb743e",
+    "potential_duplicates": [],
+    "title": "Reading's Problem 9.3: Order Dimension Versus Rank for Simplicial Arrangements"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8797c29d54710c52",
+    "potential_duplicates": [],
+    "title": "Kusner's Conjecture on Equilateral Sets in $\\ell_p^n$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3d07ec1f64b8c659",
+    "potential_duplicates": [],
+    "title": "$SOP_2 = SOP_3$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-aaffad5332225dac",
+    "potential_duplicates": [],
+    "title": "Universal volume growth bounds from positive intermediate curvature"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5f616ca40e56e096",
+    "potential_duplicates": [],
+    "title": "Courtade's conjecture on volumes of Minkowski sums with the ball"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7ec7c1e1662a9bc7",
+    "potential_duplicates": [],
+    "title": "Every PPT channel has finite entanglement-breaking index"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2043783958f8a154",
+    "potential_duplicates": [],
+    "title": "Nineteen exact reflective and dihedral Ramsey numbers from Damnjanovic-Dordevic's tables"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-61117b11d587838d",
+    "potential_duplicates": [],
+    "title": "1.17353 planar lower bound and exact local envelopes for cost-preserving single-source unsplittable flow"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-32dd2a72fc2f8d2a",
+    "potential_duplicates": [],
+    "title": "The Radchenko–Viazovska question on Fourier interpolation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7a868ad8bc7edcbf",
+    "potential_duplicates": [],
+    "title": "Banach's isometric conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bd818f5128cc4b93",
+    "potential_duplicates": [],
+    "title": "Unbounded variation solutions for uniformly elliptic equations in nondivergence form in dimension three"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a6425271573548a3",
+    "potential_duplicates": [],
+    "title": "Dihedral Ramsey numbers of the alternating a-path versus K_b, for every a >= 4: 1 + (a-1)(b-1)"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-156782d728ee154e",
+    "potential_duplicates": [],
+    "title": "Word-length spectral triples as compact quantum metric spaces"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1eef2edd2964260d",
+    "potential_duplicates": [],
+    "title": "Dihedral and cyclic Ramsey numbers of the alternating 3-path"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-58f93f6e045dbcde",
+    "potential_duplicates": [],
+    "title": "Treglown's equitable acyclic colouring conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ec19dc7fba4547bc",
+    "potential_duplicates": [],
+    "title": "Phelps–Rodriguez Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7313a85b0187c561",
+    "potential_duplicates": [],
+    "title": "Hadamard Matrix of Order 668"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9dd9104444303f41",
+    "potential_duplicates": [],
+    "title": "Gamow liquid-drop minimizer conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d5f7b2223eb68c87",
+    "potential_duplicates": [],
+    "title": "Strong Graph Reconstruction Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-90a46949efda7b27",
+    "potential_duplicates": [
+      "OMP-e7bb2024f4630449"
+    ],
+    "title": "Seymour's Second Neighborhood Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-eeed2bd704235a09",
+    "potential_duplicates": [],
+    "title": "Lower Bounds for Stepsize-Based Acceleration of Gradient Descent"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0f12c488c00f31ce",
+    "potential_duplicates": [],
+    "title": "Albertson–Berman Induced Forest Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4a98d8aaed7edb79",
+    "potential_duplicates": [],
+    "title": "The Planar Steklov Analogue of Kac's Question"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1fa5cd4f9f5a95d5",
+    "potential_duplicates": [],
+    "title": "Predicting Diagonalizability of a Mean Matrix"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3c557f686b08d1f9",
+    "potential_duplicates": [],
+    "title": "Lions' Maximal Regularity Problem at the Half-Holder Endpoint"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-64fb492940decdcc",
+    "potential_duplicates": [],
+    "title": "Makeev's conjecture on universal cover"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-eb78e1f4ef2cae4c",
+    "potential_duplicates": [],
+    "title": "Bounded Oracle Error in Nonconvex Stochastic Optimization"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-40efc341a580d527",
+    "potential_duplicates": [],
+    "title": "The Hyperkahler Period-Index Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c19feb63cf7776a1",
+    "potential_duplicates": [],
+    "title": "The Imbalance Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-936eff878e05552f",
+    "potential_duplicates": [],
+    "title": "The Ellipsoid Fitting Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7e0e0de0152a84b0",
+    "potential_duplicates": [],
+    "title": "The Proportion of Zeta Zeros on the Critical Line"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fb2294fe873b2546",
+    "potential_duplicates": [],
+    "title": "Teschner's Bondage-Number Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-501c74fb16138997",
+    "potential_duplicates": [],
+    "title": "pth-Order Oracle Complexity for Monotone Variational Inequalities"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7c06061c10a3fbe2",
+    "potential_duplicates": [],
+    "title": "The Kim-Roush Conjecture on the Maximum of per(I-A) in Odd Order"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a649de873dd1e112",
+    "potential_duplicates": [],
+    "title": "The Planar Berenstein Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f8472b1e0c1322b6",
+    "potential_duplicates": [],
+    "title": "Finite-Copy Distillability of NPT States in the DiVincenzo Family"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d3a02a8cf5559890",
+    "potential_duplicates": [],
+    "title": "Matrix-Tree Obstruction for Half-Collinear Graviton Vertices"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-15a7e899f5279fb6",
+    "potential_duplicates": [],
+    "title": "Talagrand's critical Sherrington-Kirkpatrick overlap conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b11ef1d2b5048e3b",
+    "potential_duplicates": [],
+    "title": "Whether Amenability of an Algebra Depends on the Ground Field"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-889f166017adc881",
+    "potential_duplicates": [],
+    "title": "A counterexample to the Howland-Kato problem for positive commutators"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f83c81c2481d5100",
+    "potential_duplicates": [],
+    "title": "The Umans-Wang Arithmetic-Progression Divisor Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2cc19480cace6172",
+    "potential_duplicates": [],
+    "title": "The Anstee-Sali Conjecture on Forbidden Configurations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-dbdaf114dee3b29d",
+    "potential_duplicates": [],
+    "title": "The Chen-Lawrencenko Conjectures on Cyclic Colorations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-32914e985d92bdb1",
+    "potential_duplicates": [],
+    "title": "Log-Submodularity of Zonoid Volume"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f95409a4f640c274",
+    "potential_duplicates": [],
+    "title": "Facial Distance Patterns in Planar Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-dca3318c745fcfa0",
+    "potential_duplicates": [],
+    "title": "The Inverse Generator Problem on Hilbert Spaces"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-215bed26f921df69",
+    "potential_duplicates": [],
+    "title": "Absolutely Maximally Entangled States in Five Open Cases"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4cbe99039ab55c39",
+    "potential_duplicates": [],
+    "title": "The Huang-Jiang-Oblomkov Conjecture at a = 3"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fd3fe47dc20b8ead",
+    "potential_duplicates": [],
+    "title": "Balanced EF1 and fPO Allocations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5714509bc5e83a61",
+    "potential_duplicates": [],
+    "title": "Central limit theorem for the random assignment problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1d450d30f5e05db3",
+    "potential_duplicates": [],
+    "title": "Tuza's Conjecture for Maximum Degree at Most Seven"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f092cef4d8fe6b36",
+    "potential_duplicates": [],
+    "title": "Babai's Minimal Cayley Graph Problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b9e52b270298fdab",
+    "potential_duplicates": [],
+    "title": "Approximate Counting for Spin Systems on Planar Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-83409bd9d034a341",
+    "potential_duplicates": [],
+    "title": "The Generalized Busemann-Petty Problem in Dimensions 2 and 3"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-eaae818da22bbc7d",
+    "potential_duplicates": [],
+    "title": "Sendov's Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5f42627cc857f373",
+    "potential_duplicates": [],
+    "title": "The Approximation Ratio for Boolean Max-k-CSP"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-381417c5a32ba81d",
+    "potential_duplicates": [],
+    "title": "The Generalized Vanishing Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-43c1c0350452e2ff",
+    "potential_duplicates": [],
+    "title": "The Divisible Rank-Three Case of the Kajitani–Ueno–Miyano Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-24b848a639ac0551",
+    "potential_duplicates": [],
+    "title": "Lower Bounds for Multivariate Independence Polynomials"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1f205b4854d96339",
+    "potential_duplicates": [],
+    "title": "Gabor Frames of Totally Positive Functions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-adbb08f82f751482",
+    "potential_duplicates": [],
+    "title": "Tight Bound for Online Vertex Cover under Edge Arrivals"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6aa3753feb9bf408",
+    "potential_duplicates": [],
+    "title": "HRT Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1078774874ecc514",
+    "potential_duplicates": [],
+    "title": "Rivière’s regularity question for critical $n$-Laplace systems with antisymmetric potentials"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7c537594755aa94f",
+    "potential_duplicates": [],
+    "title": "Completeness of Maximally Entangled States for Pseudo-Telepathy"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b368282128406fb4",
+    "potential_duplicates": [],
+    "title": "Nazarov's Conjecture on Truncations for Fractional Laplacians"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f0ffe697d39cf3fa",
+    "potential_duplicates": [],
+    "title": "Schiffer's Conjecture and the Pompeiu Problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-60fa31d91c9e0212",
+    "potential_duplicates": [],
+    "title": "Problem MAIS-O60: Single-Neuron Fourier Alignment"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-eba8f0dca6986692",
+    "potential_duplicates": [],
+    "title": "The Middle Stair of Parallel Chip-Firing"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d0858a07550c7173",
+    "potential_duplicates": [],
+    "title": "Signed Depth Relevance of subDL"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-59b0399966320301",
+    "potential_duplicates": [],
+    "title": "Perfectly Complete Quantum Key Agreement from One-Way Functions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d851a28022a0c69a",
+    "potential_duplicates": [],
+    "title": "Finite Generation for klt Generalized Pairs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d96f37fe3eab35c4",
+    "potential_duplicates": [],
+    "title": "Uniform Székelyhidi conjectures for complex Hessian equations on projective manifolds"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d316cd1b0c2b7a18",
+    "potential_duplicates": [],
+    "title": "Real-Rootedness of Ehrhart h*-Polynomials at Large Width"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-76f154f627600fa1",
+    "potential_duplicates": [],
+    "title": "The Bandelt-Dress Quartet Distance Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8db4ca166c08b2cf",
+    "potential_duplicates": [],
+    "title": "The Period-Index Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9778af07d60e4746",
+    "potential_duplicates": [],
+    "title": "Asymptotically attaining the Moore bound"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8f4b625ef5412c0c",
+    "potential_duplicates": [],
+    "title": "The Axiotis-Sviridenko Condition-Number Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d1ce17a1b31be8f3",
+    "potential_duplicates": [],
+    "title": "Kalton-Peck Space and its Hyperplanes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c63f136613b7722b",
+    "potential_duplicates": [],
+    "title": "Sharpness of Denjoy's Theorem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-37682128a5e61af8",
+    "potential_duplicates": [],
+    "title": "Graffiti's Residue Problem for Common-Divisor Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f6fb3ffadf6c1038",
+    "potential_duplicates": [],
+    "title": "The Simonovits Product Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5a4a071d9315d742",
+    "potential_duplicates": [],
+    "title": "The Mihail-Vazirani Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-daa32f67350573b6",
+    "potential_duplicates": [],
+    "title": "Approximating Two-Terminal Network Reliability"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-62691077b53859ab",
+    "potential_duplicates": [],
+    "title": "Connes' Rigidity Conjecture for ICC Property (T) Groups"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-78251dd827187c0c",
+    "potential_duplicates": [],
+    "title": "Hoa's Conjecture on Maximal Non-Hamiltonian Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5bdbaaf0e9d65bc2",
+    "potential_duplicates": [],
+    "title": "The Equality Case of Ehrhart's Volume Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-65b445abb6e7bb24",
+    "potential_duplicates": [],
+    "title": "Upper Bounds for High-Dimensional Sphere Packing"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9632621c687bd38b",
+    "potential_duplicates": [],
+    "title": "Lower Bounds for the Permanent in Arithmetic Circuits"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2ee4d9a0c48844e1",
+    "potential_duplicates": [],
+    "title": "Upper Bounds for Binary and Spherical Codes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0799d329bb13e192",
+    "potential_duplicates": [],
+    "title": "Finitude of the Fibers of Complementary Bell Numbers"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2ba50266c53be9ba",
+    "potential_duplicates": [],
+    "title": "Ehrhart Positivity of Schubitopes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e91e72ec2005bd46",
+    "potential_duplicates": [],
+    "title": "Local limits along squares and prime values of digital functions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-97aca62f21090a8a",
+    "potential_duplicates": [],
+    "title": "Minimum reverse-complement-invariant decycling sets"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-611258cabe553901",
+    "potential_duplicates": [],
+    "title": "An Erdős–Kac law for base-$b$ palindromes and for reversed primes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a9e71324c77f425a",
+    "potential_duplicates": [],
+    "title": "Prime values of digital functions along the primes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d1ef08251d1c8146",
+    "potential_duplicates": [],
+    "title": "Improved integrality of Donaldson–Thomas invariants of loop quivers (GKS Conjecture 1.3 for twist knots)"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9fb57b62a6d2e81d",
+    "potential_duplicates": [],
+    "title": "Han's Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3f4f2ae637e73f14",
+    "potential_duplicates": [],
+    "title": "1.28249... Lower Bound and Partial Upper Bounds for Cost-Preserving Single-Source Unsplittable Flows"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-93280bfb725590b5",
+    "potential_duplicates": [],
+    "title": "Pólya's Conjecture for Neumann Balls in Dimensions Three and Higher"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7f4a11bf5387d01d",
+    "potential_duplicates": [],
+    "title": "Online Shadow Tomography Matching the Classical Bounds"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cd4b7fff1a197b99",
+    "potential_duplicates": [],
+    "title": "Record Lower Bounds for the Shannon Capacity of Odd Cycles"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fd3de21a0d9330b9",
+    "potential_duplicates": [],
+    "title": "The Integer Domination Root Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d00e411f18b3aed2",
+    "potential_duplicates": [],
+    "title": "Sharp Hardness for MAX-3-CUT"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cdb84148ae86d78b",
+    "potential_duplicates": [],
+    "title": "The Han-Xiong Integer Trace Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7ef1be6f7ae7c0e7",
+    "potential_duplicates": [],
+    "title": "Signature of Connected Line Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-380ceb037b35e3fd",
+    "potential_duplicates": [],
+    "title": "The Tu-Deng Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-825cfd364850ecb7",
+    "potential_duplicates": [],
+    "title": "The Dimer Constant of the Cubic Lattice"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-269e16089ef129f9",
+    "potential_duplicates": [],
+    "title": "Maxwell's Three-Charge Equilibrium Bound"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7780acccfcd40bf4",
+    "potential_duplicates": [],
+    "title": "Non-Covering Congruence Systems over Fq[x]"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0ffcec54feefca76",
+    "potential_duplicates": [],
+    "title": "Local Cohomology Modules With Nonclosed Support"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b6e3dfa78981cc5c",
+    "potential_duplicates": [],
+    "title": "The Modified Lyons–Sidorova Conjecture for Bounded-Variation Paths"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-41a682e33061f099",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #106"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1a56461553a16b1f",
+    "potential_duplicates": [],
+    "title": "Lami-Regula Conjecture on Entanglement Irreversibility"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-adb25265137698c1",
+    "potential_duplicates": [],
+    "title": "Written on the Wall II, Conjecture 284"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0c99079910231d73",
+    "potential_duplicates": [],
+    "title": "Fuglede's Conjecture on Square-Free Cyclic Groups With Rapidly Growing Primes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e202198fb67bd450",
+    "potential_duplicates": [],
+    "title": "Optimal Partial Plank Coverings"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-98de266f66faab80",
+    "potential_duplicates": [],
+    "title": "Huneke-Wiegand Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b5591b347749dd1b",
+    "potential_duplicates": [],
+    "title": "Bosonic Quantum Communication Beyond the Thermal Threshold"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6dbe26866230c495",
+    "potential_duplicates": [],
+    "title": "Twelve Common Flex Lines in a General Pencil of Cubics"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5b04f81be464405c",
+    "potential_duplicates": [],
+    "title": "Completeness of Fixed-Order Atom-Centered Descriptors"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ef4d3080c97eafc1",
+    "potential_duplicates": [],
+    "title": "The Lukic Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-94dc94b89b4994d0",
+    "potential_duplicates": [],
+    "title": "Optimal Exponent Relating Sumsets and Difference Sets"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-14415ecbc0b4100b",
+    "potential_duplicates": [],
+    "title": "Sharp Bounds on the Ground State Energy of the SYK Model"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-17430d6882eb9247",
+    "potential_duplicates": [],
+    "title": "Mixed Partition Functions and Exponentially Bounded Edge-Connection Rank"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d57045200289cb46",
+    "potential_duplicates": [],
+    "title": "Maxwell's Conjecture on Point-Charge Equilibria"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3d64e1536f9b13ce",
+    "potential_duplicates": [],
+    "title": "Positivity on Deligne–Mumford Stacks Without the Torsion-Free Hypothesis"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-24e70331079cd9cf",
+    "potential_duplicates": [],
+    "title": "Tournaments Determined by Three and Five Voters"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0ad3095da8efbfbc",
+    "potential_duplicates": [],
+    "title": "Improved Bounds for Distinct Multiples in Intervals"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f235d853742e3f8b",
+    "potential_duplicates": [],
+    "title": "Boucksom's Local Analytic Bertini Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4d24d0300aa3e658",
+    "potential_duplicates": [],
+    "title": "Martinsson-Steiner Conjecture on Fractional Chromatic Number"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-637367127a3a8ca1",
+    "potential_duplicates": [],
+    "title": "Stanley's Problem 4 on Differential Posets"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b3d1dbf9a4fb6c59",
+    "potential_duplicates": [],
+    "title": "Written on the Wall II, Graph Conjecture 109"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5e7a88bbfa8ce87c",
+    "potential_duplicates": [],
+    "title": "Bondal-Polishchuk Conjecture for a Smooth Projective Variety"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-48a9d11b399f39b0",
+    "potential_duplicates": [],
+    "title": "Existence of Bipartite Bound Information"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-36a80421bcdc7f2c",
+    "potential_duplicates": [],
+    "title": "The 4^k Barrier for the k-Distinct Language"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9da59cf31f89d414",
+    "potential_duplicates": [],
+    "title": "General Position for Planar Line Arrangements and $HD_2(p,3)$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-90900892c24c333b",
+    "potential_duplicates": [],
+    "title": "Monotone Slowdown of Turbulent Flame Speed under Curvature"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-791f357b80716cd5",
+    "potential_duplicates": [],
+    "title": "Kemeny Rank Aggregation for Three Voters"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-30c38bfebf993a5a",
+    "potential_duplicates": [],
+    "title": "Probabilistic Automatic Complexity Is At Most Three"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5810148314e316f8",
+    "potential_duplicates": [],
+    "title": "Stanley's Rankwise Lower-Bound Conjecture for Differential Posets"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ec2fa4621b818ffc",
+    "potential_duplicates": [],
+    "title": "Crouzeix's Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4dc7a4c3faf9dfa7",
+    "potential_duplicates": [],
+    "title": "KLS Conjecture for Quadratic Forms"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1e4bd3ea1bd858ce",
+    "potential_duplicates": [],
+    "title": "Unimodality of Kazhdan-Lusztig Polynomials of Matroids"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ef4db94b9980f58b",
+    "potential_duplicates": [],
+    "title": "Infinitely Many Components in Auslander–Reiten Quivers over Perfect Fields"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-50e9d655117d2748",
+    "potential_duplicates": [],
+    "title": "The Hall-Ho Heat Flow Conjecture for Random Matrices"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a6101b8dcf4b5dd4",
+    "potential_duplicates": [],
+    "title": "Bellman's Lost-in-a-Forest Problem for the Golden Gnomon"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f9c80341285fff16",
+    "potential_duplicates": [],
+    "title": "Chafai-Dadoun-Youssef Questions on Logarithmic Energy Monotonicity"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0d99e162f19af06c",
+    "potential_duplicates": [],
+    "title": "Kinetic Trace Estimates in the Gaussian Model"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bc2342847d6e5568",
+    "potential_duplicates": [],
+    "title": "Sharp Continuity Bound for Quantum Conditional Entropy"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7f4240e9d3d18e17",
+    "potential_duplicates": [],
+    "title": "Kuperberg's Six-Cylinder Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-608047c2697fa8e5",
+    "potential_duplicates": [],
+    "title": "Feige's Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c89e9d4274805f83",
+    "potential_duplicates": [],
+    "title": "Brezis's Open Problem 5.6 on Universal Fourier Summation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-886f9caa777af918",
+    "potential_duplicates": [],
+    "title": "Explicit Presentation of the 2-adic Absolute Galois Group"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1e6c7a1776d4ec88",
+    "potential_duplicates": [],
+    "title": "The Covering Number $C(12,6,4)$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d63e7a853eefec1d",
+    "potential_duplicates": [],
+    "title": "Powers of the Vandermonde Determinant Are Eventually Non-SNP"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bd7710e6a5b6dd73",
+    "potential_duplicates": [],
+    "title": "Zero Forcing versus Independence in Subcubic Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b01199e856e2d20b",
+    "potential_duplicates": [],
+    "title": "Carrasco's Conjecture on the O'Shea-Zames-Falb Test"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7917e00c55e56e90",
+    "potential_duplicates": [],
+    "title": "Carlson's Associated-Prime Depth Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-59d6dbe1be7aedaa",
+    "potential_duplicates": [],
+    "title": "Djament's Problem on Locally Noetherian Grothendieck Categories"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5ddf64060f8bc662",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #684"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2093f7409e2d6c70",
+    "potential_duplicates": [],
+    "title": "Černý Conjecture for One-Cluster Automata"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b61c8c4a6af6861e",
+    "potential_duplicates": [],
+    "title": "The Graveyard Problem for Dissipative Barrier Truncations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e21f7107e3e004bb",
+    "potential_duplicates": [],
+    "title": "Rota's Unimodality Conjecture for Matroid Flats"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9922181206413b84",
+    "potential_duplicates": [],
+    "title": "Strichartz-Tse $L^p$-Integrability on the Sierpinski Gasket"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b7bd8f041bb71588",
+    "potential_duplicates": [],
+    "title": "Minimum Sparsity of S-Decoding Polynomials"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7a66e46230c94328",
+    "potential_duplicates": [],
+    "title": "A Five-Variable Counterexample to the Hessian Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-13f4ce3fbf5aac61",
+    "potential_duplicates": [],
+    "title": "Ghasemi-Kopparty Problem on Sparse $S$-Decoding Polynomials"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6dc4599991e520ae",
+    "potential_duplicates": [],
+    "title": "Reiner's Conjecture on Higher Bruhat Orders in Corank 3"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a748a939877c0795",
+    "potential_duplicates": [],
+    "title": "Monical's Saturated Newton Polytope Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-299ef9b156cb307a",
+    "potential_duplicates": [],
+    "title": "Two-Copy Distillability of Werner States"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7ea44bcceedc894f",
+    "potential_duplicates": [],
+    "title": "Araujo-Piga-Schacht Question on Tight Hamilton Cycles"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d63bc7c39b6ebe19",
+    "potential_duplicates": [],
+    "title": "Commutator Relators Do Not Force Hopficity, Residual Finiteness or Automaticity"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7a95740bfbc52fde",
+    "potential_duplicates": [],
+    "title": "Petersen Coloring Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e5387e43e6eecc7f",
+    "potential_duplicates": [],
+    "title": "Stanley's Claw-Free Schur-Positivity Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-79f33a02dad9db9b",
+    "potential_duplicates": [],
+    "title": "Unconditional One-Bit Unclonable Encryption"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-44d9fbe07dceced7",
+    "potential_duplicates": [],
+    "title": "Uniqueness of the Faber–Krahn Position of Convex Bodies"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-666162e349fe1f79",
+    "potential_duplicates": [],
+    "title": "The Liu-Morin Extension Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-37440da962e2f211",
+    "potential_duplicates": [],
+    "title": "Dual Sequential Fat-Shattering and Tight Threshold Extraction"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8f03a1c91d3f724b",
+    "potential_duplicates": [],
+    "title": "The Target-Free Clique Conjecture for Threshold-Linear Networks"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bff29ac0798ea1e4",
+    "potential_duplicates": [],
+    "title": "The Separable Jacobian Conjecture in Characteristic 2"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6e5cfb5aab8d095f",
+    "potential_duplicates": [
+      "OMP-b059f69448cb7b17"
+    ],
+    "title": "Dinitz-Garg-Goemans Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e21697486252e663",
+    "potential_duplicates": [],
+    "title": "An Explicit Counterexample to the Rank-Two Poisson Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-776d4e4526e1daa2",
+    "potential_duplicates": [],
+    "title": "Stability Radius of the Lamplighter Group"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-da3f7249902b1ea5",
+    "potential_duplicates": [],
+    "title": "The Polynomial-Time Low-Degree Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-12f097006f47abec",
+    "potential_duplicates": [],
+    "title": "Improved Bound for Colorings Without Symmetrically Colored k-APs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9e134871209bb1ae",
+    "potential_duplicates": [],
+    "title": "The Minimal Distance Problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ca04067ab8d3bbcf",
+    "potential_duplicates": [],
+    "title": "Written on the Wall II, Graph Conjecture 103"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-24caf7f1500f6a9a",
+    "potential_duplicates": [],
+    "title": "Levit–Mandrescu Unimodality Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b9b7f82781968404",
+    "potential_duplicates": [
+      "OMP-f32879508f6f0111"
+    ],
+    "title": "Graffiti Conjecture 284"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6925a829fe2bec27",
+    "potential_duplicates": [],
+    "title": "Nikolov-Ullman Pure-DP Query Release Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-83212ab1d3e4e0b7",
+    "potential_duplicates": [],
+    "title": "$e$-Log-Concavity of Chromatic Quasisymmetric Functions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d8439fd15098a327",
+    "potential_duplicates": [],
+    "title": "Dittert's Conjecture in Dimension 16"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-718f510b912a408c",
+    "potential_duplicates": [],
+    "title": "Strong Log-Concavity of Chernoff's Density"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-35a1dd170b43652b",
+    "potential_duplicates": [],
+    "title": "Norine's Antipodal-Colouring Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6ca671b5ab61c1d4",
+    "potential_duplicates": [],
+    "title": "Counterexamples to the xz-Conjecture and the Mathieu Conjecture for SU(2)"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-873644e40ef5564d",
+    "potential_duplicates": [],
+    "title": "Pak-Slonim Conjecture on Stretched Schubert Structure Constants"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4512d882121073e9",
+    "potential_duplicates": [],
+    "title": "Johnson-Freyd-Ostrik-Yu Question on Categorical Cocycles"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d78f22a22cbbe426",
+    "potential_duplicates": [],
+    "title": "Written on the Wall II, Graph Conjecture 143"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7b44653563ed0f52",
+    "potential_duplicates": [],
+    "title": "Boots-Royle/Cao-Vince Conjecture on Planar Spectral Radius"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5feb6a30a509a8f8",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #469"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-68a3fce18c257c4e",
+    "potential_duplicates": [],
+    "title": "The mod 4 Kawauchi Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1fb2ac91b65d5684",
+    "potential_duplicates": [],
+    "title": "Batyrev's Stringy Hodge Number Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1468dd3ec994ff5d",
+    "potential_duplicates": [],
+    "title": "Kourovka Problem 21.150 - Rank Inequality for p-Group Extensions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b963f94a8ed8a269",
+    "potential_duplicates": [],
+    "title": "Universal Multiplicative FDR Bound for Benjamini-Hochberg"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bf91f4fad4b0de39",
+    "potential_duplicates": [],
+    "title": "Kourovka Problem 20.125 - Noninjective Rota-Baxter Operator"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-315845709d593910",
+    "potential_duplicates": [],
+    "title": "Kourovka Problem 21.24 - Cograph Power Graphs Are Chordal"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cfabe2b8c3f4b6ca",
+    "potential_duplicates": [],
+    "title": "The Virtual Surjection Conjecture for Discrete Groups"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3b996d66872f2514",
+    "potential_duplicates": [],
+    "title": "Kourovka Problem 3.46 - Maximal Locally Soluble Normal Subgroups"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-aa262821828dc5bc",
+    "potential_duplicates": [],
+    "title": "Kourovka Problem 21.8 - Horizontal Class Transpositions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5906ccf9d01b689b",
+    "potential_duplicates": [],
+    "title": "Optimality of Greedy for Single-Pass Semi-Streaming Matching"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d9c01c6227ea4fde",
+    "potential_duplicates": [],
+    "title": "Full-RSB in the Sherrington–Kirkpatrick spin glass"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-adfe76b6003e19ee",
+    "potential_duplicates": [],
+    "title": "Kourovka Problem 21.147 - Relatively Convex Subgroups"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ce9742067efe01b6",
+    "potential_duplicates": [
+      "OMP-e7a4026af1aaaac4"
+    ],
+    "title": "Gaussian Moments Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-df26d2fc4ac6fd44",
+    "potential_duplicates": [],
+    "title": "Kourovka Problem 18.50 - Prescribed Permuted-Product Cardinality"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d00b49ba83af323c",
+    "potential_duplicates": [],
+    "title": "Gaussian product inequality conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ec5a62b74acb4724",
+    "potential_duplicates": [],
+    "title": "Kourovka Problem 19.25 - Totient Sums and Simplicity"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9330316032fb6efd",
+    "potential_duplicates": [],
+    "title": "Jacobian Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-82548ea47996595a",
+    "potential_duplicates": [],
+    "title": "Completeness of Canonical Closure Representations Is coNP-Complete"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-72fc46e691c49487",
+    "potential_duplicates": [],
+    "title": "The Toroidal Elton–Odell Theorem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-48a0a42e1adfa89b",
+    "potential_duplicates": [],
+    "title": "Primariness of the Mixed-Norm Space $L_p(L_1)$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-779aba7d37348407",
+    "potential_duplicates": [],
+    "title": "Weakly Compact Factorization Through a Space With a Basis"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cc45de29d796d271",
+    "potential_duplicates": [],
+    "title": "Strict Cosingularity and Adjoints for Separable Range"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bc8431575f2dd4b1",
+    "potential_duplicates": [],
+    "title": "A Unital Banach Algebra That Is Not a Calkin Algebra"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b14ce8d4a2307f05",
+    "potential_duplicates": [],
+    "title": "Kaul-Mudrock Conjecture on the Unlabeled List Color Function"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1588cb56395e22bd",
+    "potential_duplicates": [],
+    "title": "Ji-Zhang Question on the Power Set of a Quasinilpotent Operator"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-13fd9b19246eeb02",
+    "potential_duplicates": [],
+    "title": "Online Spencer Vector-Balancing Question"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-228d4541b88f3623",
+    "potential_duplicates": [],
+    "title": "Complexity of Terminal-Only Manhattan Prim-Dijkstra Routing"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6c27e47eb5524655",
+    "potential_duplicates": [],
+    "title": "Fulek's Question on the Extremal Function of $L_3$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5bc46f5ae838f89f",
+    "potential_duplicates": [],
+    "title": "The Homogeneous Polynomial Lyapunov Converse Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-53c76efbf1722cd8",
+    "potential_duplicates": [],
+    "title": "Feige's Hypergraph Moore-Bound Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fc3314938a5d361d",
+    "potential_duplicates": [],
+    "title": "Belinskaya's Theorem for Measure-Preserving Flows"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d9adb530cfd62a54",
+    "potential_duplicates": [],
+    "title": "The Abbott-Hanson Recurrence for Schur Numbers"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cc2051298116f91c",
+    "potential_duplicates": [],
+    "title": "The Order of Long Rainbow Arithmetic Progressions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0e625530faf9e36f",
+    "potential_duplicates": [],
+    "title": "Erdos-Graham Question on Averages of Unit Fractions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a615291ddd1b0aa8",
+    "potential_duplicates": [],
+    "title": "Gao-Huo-Ma Question on Cycle Lengths in Critical Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cdb9442f6364d172",
+    "potential_duplicates": [],
+    "title": "The Small Davenport Constant of the Heisenberg Group of Order 125"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d96b6cc7756045a7",
+    "potential_duplicates": [],
+    "title": "Cutoff for Kac's Walk on the Sphere"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5e3344484f5afe44",
+    "potential_duplicates": [],
+    "title": "Quantum Memory Advantage for Process Tomography"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d780e4bc27ce4e31",
+    "potential_duplicates": [],
+    "title": "The Weak Simplex Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-12363166555b189b",
+    "potential_duplicates": [],
+    "title": "Record Compositions of Alternating Permutations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a3f8b2eb65f2a82e",
+    "potential_duplicates": [],
+    "title": "Oracle-Complexity Gap in Derivative-Free Convex Optimization"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a2b8c8fa064bef24",
+    "potential_duplicates": [],
+    "title": "A Universal Leading-Residue Formula for Witten Zeta Functions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-083c7d7d36353b8b",
+    "potential_duplicates": [],
+    "title": "Sabidussi's Compatibility Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-df6e4e02fcbcfaa6",
+    "potential_duplicates": [],
+    "title": "Brualdi's Question on Hamiltonicity of Interchange Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0368b1c237b421d6",
+    "potential_duplicates": [],
+    "title": "Thakur's Conjecture on Carlitz-Wieferich Primes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9f162142f2783b58",
+    "potential_duplicates": [],
+    "title": "Benjamini-Hochberg FDR Under Correlated Gaussian Tests"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2e49bc71afe928f5",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #769"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3f858d7ec29d4384",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #130"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-61201b0f37dc58cc",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #959"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fb40b4b9fc233609",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #709"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d9e82d0206a3c649",
+    "potential_duplicates": [],
+    "title": "Optimal Chain Density and Space-Time Tradeoffs for the TSP"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0c0ff3afae1fd387",
+    "potential_duplicates": [],
+    "title": "Krauth-Mezard Storage Capacity of the Ising Perceptron"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c57cf6037479b673",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1189"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ea6efc69c9fb67fe",
+    "potential_duplicates": [],
+    "title": "Two Counterexamples in the Geometry of Numbers"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c6a082b713879c69",
+    "potential_duplicates": [],
+    "title": "Ross's Two Conjectures on Nondeficient Numbers"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c543597fe0d2a9fe",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1186"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-88e754627d2bddac",
+    "potential_duplicates": [],
+    "title": "Type-D ASEP Tracy-Widom Marginals"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-56280f023c53fac9",
+    "potential_duplicates": [],
+    "title": "Tightness of the Cohn-Elkies Bound in Dimension 36"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-45bd96cc261222d4",
+    "potential_duplicates": [],
+    "title": "The Classical Smith-Ward Problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-66a9f43a48c747ab",
+    "potential_duplicates": [],
+    "title": "Counting Fixed Cycles in Graphs with Bounded Circumference"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c8ab455ab709b88c",
+    "potential_duplicates": [],
+    "title": "The Coxeter Code Minimum Distance Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-629ade902387b742",
+    "potential_duplicates": [],
+    "title": "Elizalde-Luo Pattern-Avoidance Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0d9bbf976d522e0e",
+    "potential_duplicates": [],
+    "title": "Grothendieck's Finite Flat Group Scheme Order Question"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4a0ef5d998b59f61",
+    "potential_duplicates": [],
+    "title": "Klopp-Zadik Question on Polynomial-Time Node-Private Recovery"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-acff6fe97bc6dc68",
+    "potential_duplicates": [],
+    "title": "Worst-Case Complexity of Shellsort with Tokuda's Gap Sequence"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c71fe709fa9700cd",
+    "potential_duplicates": [],
+    "title": "New Bounds for Double Covers of the Discrete Box"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cb25bb1dcec6bb1d",
+    "potential_duplicates": [],
+    "title": "A Counterexample to Nivat's Conjecture for a Non-Convex Window"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2217bbf210e51e00",
+    "potential_duplicates": [],
+    "title": "Cycle Double Cover Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fe726e7022b85ebf",
+    "potential_duplicates": [],
+    "title": "Kotzig's Perfect 1-Factorisation Conjecture, Asymptotically"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a3da232c46fb7f17",
+    "potential_duplicates": [],
+    "title": "Minimum Edge-Outerplanar Embedding"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b1c471d7da401452",
+    "potential_duplicates": [],
+    "title": "Purdy's Inequality for Hyperplane Arrangements"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5a808e677898ce7c",
+    "potential_duplicates": [],
+    "title": "Strichartz's Question on Fourier Frames for the Cantor Measure"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-498988d1ffd97eb4",
+    "potential_duplicates": [],
+    "title": "Kurkov's Fubini-Number Sum Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4f418325ddda69bf",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #866"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0e022da7f05e9782",
+    "potential_duplicates": [],
+    "title": "The Quantum Wasserstein Semidistance Is Not a Distance"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6c3770d142fd29ca",
+    "potential_duplicates": [],
+    "title": "Stable Phase Retrieval for Spans of Independent Random Variables"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1baf8c46832365f9",
+    "potential_duplicates": [],
+    "title": "Faber-Harris Conjecture on the Isolation Lemma"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-abbb012df865c275",
+    "potential_duplicates": [],
+    "title": "Amdeberhan-Medina-Moll Arctangent Sum Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-81816c0ce7ace31a",
+    "potential_duplicates": [],
+    "title": "Counterexample to the Odd-Dimensional Rank Bound for Abelian p-Group Actions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-336976808543cbf4",
+    "potential_duplicates": [],
+    "title": "Optimal Online Discrepancy in Linear Time"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fbc3152e886127fb",
+    "potential_duplicates": [],
+    "title": "K-Polystable Toric Fano Varieties With Small Alpha Invariants"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-94c5767af1b11cfd",
+    "potential_duplicates": [],
+    "title": "Signed BAR Conjecture for Reflected Brownian Motion"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b417b46edc029dd7",
+    "potential_duplicates": [],
+    "title": "The Tree Product Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f441af5bfe99b997",
+    "potential_duplicates": [],
+    "title": "The Signed BAR Uniqueness Problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-51d2d9ab6e182f2d",
+    "potential_duplicates": [],
+    "title": "White's Conjecture on Matroids"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7b0cbdaadbec964f",
+    "potential_duplicates": [],
+    "title": "Log-Concavity of Flats of Matroids"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6874ecbbfbabead8",
+    "potential_duplicates": [],
+    "title": "North-East Lattice Paths with Few Collinear Vertices"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9eed2ea623ab1acf",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #123"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-273114f910424f69",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #119"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1ed4e8da7c8aa7bd",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #321"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bab4ea0ce1ca23ce",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #793"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e64e8f49c25f52a2",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #320"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e9a7ac0445035812",
+    "potential_duplicates": [],
+    "title": "Bertoin-Yor Moment Determinacy Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-142d079192eabddf",
+    "potential_duplicates": [],
+    "title": "Ziegler's Cross-Polytope Conjecture (simplicial 0/1-polytopes)"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e3c030174bac3a01",
+    "potential_duplicates": [],
+    "title": "The da Silva Machado-Seade Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e7bb2024f4630449",
+    "potential_duplicates": [
+      "OMP-90a46949efda7b27"
+    ],
+    "title": "Seymour's Second Neighborhood Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-56a141aed720d8d6",
+    "potential_duplicates": [],
+    "title": "Rectangles versus Isosceles Triangles in Lattice Sets"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-35a1ed854841b9fc",
+    "potential_duplicates": [],
+    "title": "FGG Conjecture for QAOA on the Ring of Disagrees"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-081244d61b893a3d",
+    "potential_duplicates": [],
+    "title": "Mossel-Peres Multivariable Bernoulli Factory Claim"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-568c1a95cb64cd2a",
+    "potential_duplicates": [],
+    "title": "The Erdos-Sos Pairwise-Sums Problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a70b23c1af5c32e1",
+    "potential_duplicates": [],
+    "title": "Erdos Problem #731"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0dcd5dadafa84b79",
+    "potential_duplicates": [],
+    "title": "Erdos's Question on the Independence Ratio of Unit-Distance Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-794b184f39ece95d",
+    "potential_duplicates": [],
+    "title": "Conjecture on $k$-Antichains in the Unit Cube"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b0e590fef67e490c",
+    "potential_duplicates": [],
+    "title": "Lassak's Area Bound for Reduced Planar Bodies"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b7b67baa35c77bc3",
+    "potential_duplicates": [],
+    "title": "Erdos Problem #1061"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ce4573b712e72198",
+    "potential_duplicates": [],
+    "title": "Quadratic-Time Hardness of Furthest Pair in Superconstant Dimension"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-572639a2f2d23ba9",
+    "potential_duplicates": [],
+    "title": "The Existence Problem for Regular Gabor Frames"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b74d8a1163ce8861",
+    "potential_duplicates": [],
+    "title": "Erdos Problems #593 and #1177"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-87f57d3739919a91",
+    "potential_duplicates": [],
+    "title": "The Erdos-Lovasz Cover Number Problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-589d3ad01927c4dc",
+    "potential_duplicates": [],
+    "title": "Erdos Problem #768"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e104d9873a8ee6be",
+    "potential_duplicates": [],
+    "title": "Kontsevich's Asphericity Conjecture for Strata of Differentials"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6cf430183e18749d",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #865"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-edb4695d3ff43417",
+    "potential_duplicates": [],
+    "title": "The Finite Field Restriction Problem for the Paraboloid"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-588fd683ca8fc5c9",
+    "potential_duplicates": [],
+    "title": "Baker's Question on Smooth Hyperplane Sections over Finite Fields"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0c64bbc8a90fbb2b",
+    "potential_duplicates": [],
+    "title": "Kannan–Tetali–Vempala conjecture (bipartite/binary-matrix case)"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8e9b1821fcb6e315",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1197"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b2a90c153bdabab0",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #176"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4458c79c41abe4ea",
+    "potential_duplicates": [],
+    "title": "Zhi-Wei Sun's Conjecture 3.4 on a Truncated Legendre-Symbol Determinant"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9d04d2ca85fe8617",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #948"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-df725a74ddd91402",
+    "potential_duplicates": [],
+    "title": "Conjecture 3 of the Dynamical Sampling Survey"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bf54b8bd49e75883",
+    "potential_duplicates": [],
+    "title": "The Ramachandra-Natarajan Pairwise Independent Correlation Gap Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-610bd4dfc58bb202",
+    "potential_duplicates": [],
+    "title": "Sabok's S-Prime Simplex Questions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a79f578ca1a98874",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #451"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f073329c8387b24c",
+    "potential_duplicates": [],
+    "title": "Erdos's Conjecture on Consecutive Integers Free of Certain Prime Factors"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2cc1348727c727c0",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #986"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-51f55546fcfe525d",
+    "potential_duplicates": [],
+    "title": "The Yun-Sra-Jadbabaie SS-RS-GD Inequalities"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b5cad9fe1c3fbd7f",
+    "potential_duplicates": [],
+    "title": "The Erdos-Hajnal High-Girth Subgraph Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8991ffc902bb7b12",
+    "potential_duplicates": [],
+    "title": "Erdos's Question on Shifted Pairwise-Coprime Reciprocal Sums"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5ec4c980e88b0053",
+    "potential_duplicates": [],
+    "title": "Wegner's Piercing Conjecture for Rectangles"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bbd9f45021461615",
+    "potential_duplicates": [],
+    "title": "Vinzant's Conjecture on Phase Retrieval Injectivity"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7d56300a0d571f3e",
+    "potential_duplicates": [],
+    "title": "The Near-Quadratic Elekes-Ronyai Expander Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-78bd72d9e86784cc",
+    "potential_duplicates": [],
+    "title": "Brezis-Mironescu Open Problems 23 and 24 on Minimizing Maps to the Circle"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-66cbb868e68f34db",
+    "potential_duplicates": [],
+    "title": "The Matrix Spencer Conjecture for C*-Algebra Contractions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4999b660c7b236d0",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #942"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-58e225a7f1d3eecd",
+    "potential_duplicates": [],
+    "title": "The Erdos-Graham Semiprime Unit Fraction Problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4cfaf3c395429d83",
+    "potential_duplicates": [],
+    "title": "Koch-Narayan Conjecture 1"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9bf0731198f984ca",
+    "potential_duplicates": [],
+    "title": "The Papamanthou-Tollis Conjecture on Parameterized st-Orientations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-78bc56fe2c3e616e",
+    "potential_duplicates": [
+      "OMP-b4fa0b531753e807"
+    ],
+    "title": "Graffiti Conjecture 143"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f3a4388a41af6103",
+    "potential_duplicates": [],
+    "title": "Sun's Conjecture 4.6(ii) on Trigonometric Permanents"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f6371da0cd4b3604",
+    "potential_duplicates": [],
+    "title": "TxGraffiti-Davila Conjecture 9"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-54b68fcf2da992fd",
+    "potential_duplicates": [],
+    "title": "The Quantum Pyramids Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ac5136c8d9049751",
+    "potential_duplicates": [],
+    "title": "Pandey Parity Conjecture for Generalized Petersen Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-baec98531eec7b9c",
+    "potential_duplicates": [],
+    "title": "IRIS Conjecture 6.1 on Simple 3-Polytopes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ca94fe00ca8941e1",
+    "potential_duplicates": [],
+    "title": "The Matrix Spencer Conjecture for Finite Groups"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a7e1ede1509b39bd",
+    "potential_duplicates": [],
+    "title": "The Schwartz Quadratic Meander Number Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fab148b12f0a342d",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #539"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4a1f7de7e6ddaae8",
+    "potential_duplicates": [],
+    "title": "The Sharp Threshold for the Dyn-Farkhi Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b818a63526ebded8",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #619"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-68ee20a8473c3579",
+    "potential_duplicates": [],
+    "title": "Free Fermions in Disguise without Exponential Degeneracies"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-917b87155a3e5505",
+    "potential_duplicates": [],
+    "title": "The Odd Area Conjecture for Unit Disks"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8cc90effaaadec35",
+    "potential_duplicates": [],
+    "title": "The Espuny Diaz-Lichev-Wesolek Conjecture on Dirac Subgraphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-52940a62c075cb5c",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #696"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-219390a5e4faf4ea",
+    "potential_duplicates": [],
+    "title": "FullRSB Jamming Identity a + b = 1"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6980627392f3ae79",
+    "potential_duplicates": [],
+    "title": "Divisibility Set of the Generalized Euler Totient"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6a59ec922b4ab271",
+    "potential_duplicates": [],
+    "title": "Gaussian Mass Maximality of the Integer Lattice"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bd5cfc8155ad3ab2",
+    "potential_duplicates": [],
+    "title": "The Thin Matching Problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f34ea700bda5e790",
+    "potential_duplicates": [],
+    "title": "Zhang's Question on Howson and Strongly Howson Groups"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5e708eef90331376",
+    "potential_duplicates": [],
+    "title": "Steurer's Conjecture on Vectors with Small Average Correlation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7959ab0a6b579625",
+    "potential_duplicates": [],
+    "title": "Unit-Area Triangles in Planar Sets of Large Measure"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-23d472c61bed64e8",
+    "potential_duplicates": [],
+    "title": "The Arborescence-Sampling Barrier for Eulerian Tours"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-56a30d85782ca359",
+    "potential_duplicates": [],
+    "title": "The Aluffi-Chen-Marcolli Real-Rootedness Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d1a2310182dc2035",
+    "potential_duplicates": [],
+    "title": "The Sum-Product Conjecture over the Reals"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f88d488a8d5355c2",
+    "potential_duplicates": [],
+    "title": "Bombari's Question on Sign-Quantized Linear Maps"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-897537bd100fae3e",
+    "potential_duplicates": [],
+    "title": "No-Go Theorems for Poisson Certificates of Gaussian Mass Maximality"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-035aee97e4955c3b",
+    "potential_duplicates": [],
+    "title": "Borsuk Conjecture lowest-ever counterexample (N=63)"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-03c912ec98aa0791",
+    "potential_duplicates": [],
+    "title": "The Frankl-Peng-Rodl-Talbot Question on Turan Density Intervals"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-60f88a79fb0473c5",
+    "potential_duplicates": [],
+    "title": "Arithmeticity of Degree-Six Symplectic Hypergeometric Monodromy Groups"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-18ebf4653c4b60a1",
+    "potential_duplicates": [],
+    "title": "Strong Convergence of Cesaro Means of Firmly Nonexpansive Iterates"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7bc2da8a2663c5d0",
+    "potential_duplicates": [],
+    "title": "Growth Constants for Lipschitz Functions on Sparse Random Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c103dedd037fc189",
+    "potential_duplicates": [],
+    "title": "Positivity of Chern Classes of Symmetric Powers"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-07f6bde21ae2ee5f",
+    "potential_duplicates": [],
+    "title": "Open Problems in Commutative Algebra Resolved by Rethlas"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9c96ffe664fd73ba",
+    "potential_duplicates": [],
+    "title": "Brezis's Problems on Degenerate Constants in Degree Inequalities"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e2045ecdd99af707",
+    "potential_duplicates": [],
+    "title": "Simon's Extendable Shellability Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-aa22c87de63e573a",
+    "potential_duplicates": [],
+    "title": "Optimal Vector Balancing for Zonotopes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3a38a9ae71895537",
+    "potential_duplicates": [],
+    "title": "Binary Digits of the Erdős-Borwein Constant"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5b52cc1caf6b7e91",
+    "potential_duplicates": [],
+    "title": "Log-Concavity of Codimension-Three Pure O-Sequences"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-615ff8e48c56d3ef",
+    "potential_duplicates": [],
+    "title": "Shokurov's Global Index Conjecture for Foliations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b4efa6cc1f374326",
+    "potential_duplicates": [],
+    "title": "Han and Jiang's Question on klt Type in Flat Families"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-303441ae70ca8e45",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #12"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b387062f9ccc87c8",
+    "potential_duplicates": [],
+    "title": "Four-Particle Monochromatic Quantum Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-441c85a3dbaed6a6",
+    "potential_duplicates": [],
+    "title": "Mauri and Moraga's Question on Log Calabi-Yau Pairs with Big Boundary"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6042d0e12edfcf2d",
+    "potential_duplicates": [],
+    "title": "The Optimal Approximation Ratio for Permanents of PSD Matrices"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-da4b2c04da9306c5",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #138"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0219db6a27e83474",
+    "potential_duplicates": [],
+    "title": "Written on the Wall II, Graph Conjecture 2"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f83ffe07aed07f3c",
+    "potential_duplicates": [],
+    "title": "Monochromatic Quantum Graphs in the Diagonal Family"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cc69ff6c341a9817",
+    "potential_duplicates": [],
+    "title": "Ben Green's Open Problem 57"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a8823ccb51a88cfb",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #387"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ecfbe2671528a95e",
+    "potential_duplicates": [],
+    "title": "The Ballantine-Beck-Feigon-Maurischat Conjectures on Subsum Polynomials"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b7f2d1c8442e2f0c",
+    "potential_duplicates": [],
+    "title": "Kollár and Kovács's Question on Cohomology of Fibers"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d0b57717c3743459",
+    "potential_duplicates": [],
+    "title": "The Ciliberto et al. Question on Effective Divisors of Positive Self-Intersection"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-51dcbca77cab0b57",
+    "potential_duplicates": [],
+    "title": "Conjectures of Hopkins, Sagan-Wilson and Defant et al. on Lattices, Parking Functions and the Plactic Monoid"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ba2d04a9200fa66c",
+    "potential_duplicates": [],
+    "title": "Polylogarithmic Full-Chord Buffon Discrepancy"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7ebfa5e26cd1e260",
+    "potential_duplicates": [],
+    "title": "Log-Convexity of Fisher Information Along Heat Flow"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3254ed16b030182c",
+    "potential_duplicates": [],
+    "title": "Integral Local Invariant Cycles in Degree One"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7901986f082fbcc0",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1039"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cb013dec11dc89ed",
+    "potential_duplicates": [],
+    "title": "Maz'ya's Question on Distinguishing Two Maximal Operators"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fb8c3878bd264a9f",
+    "potential_duplicates": [],
+    "title": "Existence of $t$-Edge-Balanced Graphs for $t \\ge 3$"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4b11e1dd3db9ba8b",
+    "potential_duplicates": [],
+    "title": "Total Variation for the Lamplighter Walk on Z"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-9f73cbabf0107a69",
+    "potential_duplicates": [],
+    "title": "Return Probability for the Lamplighter Walk on a Tree"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e6a7c6d1ea5d86ca",
+    "potential_duplicates": [],
+    "title": "The Kinoshita Conjecture and Kirby Problem 4.37"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a0d3e3b987890538",
+    "potential_duplicates": [],
+    "title": "Ben Green's Open Problem 90"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-26f6678ccd1faa92",
+    "potential_duplicates": [],
+    "title": "Maximum Entropy of Sums of Independent Ternary Random Variables"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e90f49cc4f18fb3f",
+    "potential_duplicates": [],
+    "title": "Gaussian Completely Monotone Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b2182d604e470bd5",
+    "potential_duplicates": [],
+    "title": "Talagrand's Convexity Problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-65f3c3609dda9cae",
+    "potential_duplicates": [],
+    "title": "The Jauslin-Kreiss-Moser Vanishing-Viscosity Selection Problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2992d26237e5991e",
+    "potential_duplicates": [],
+    "title": "The Hamaker-Reiner Conjecture on ASM Weak Order Intervals"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4b0a303cf7e14eaf",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #690"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8ece694ca62409a7",
+    "potential_duplicates": [],
+    "title": "The Escobar-Klein-Weigandt Conjecture on Cohen-Macaulay ASM Varieties"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b5c4226349babcf9",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1032"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-647a7d90adf4e60f",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #7"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4821665fd4473578",
+    "potential_duplicates": [],
+    "title": "Odifreddi's Problem 3 on Irreducible m-Degrees"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-63b37f5f7cf7be64",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #750"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-36da9c241243b246",
+    "potential_duplicates": [],
+    "title": "Litvak's Conjecture on Gaussian Minima"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d698dfdf63dc3339",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #351"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-128044f0c1235372",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #283"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1b1e0b7aacd44791",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #694"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cc16e79c6a7dc789",
+    "potential_duplicates": [],
+    "title": "The Banks-Martin Conjecture on Primitive Sets"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5369e4999d2c1d5a",
+    "potential_duplicates": [],
+    "title": "The Largest Sum-Free Subset of the Lattice Cube"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d7468a35a6c400c2",
+    "potential_duplicates": [],
+    "title": "Carbery's Almost-Orthogonality Inequality in Lp"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e29f57d5630f6f46",
+    "potential_duplicates": [],
+    "title": "Erdős's Planar Unit Distance Conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bd3c045cc97e719c",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1201"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3a1a7b6d61a406bd",
+    "potential_duplicates": [],
+    "title": "The Proportion of Permutations Fixing a k-Set"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4339a0794cde8f41",
+    "potential_duplicates": [],
+    "title": "Garamvölgyi-Jackson-Jordán Conjecture on Cliques in Minimally Globally Rigid Graphs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5bb34832ff78a733",
+    "potential_duplicates": [],
+    "title": "Hamilton Decompositions of the Directed 5-Torus, Odd Modulus"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-83ca405aabec63dc",
+    "potential_duplicates": [],
+    "title": "Kirby Problem 5.16 for Noncommutative Semifree DGAs"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f8d003804d2d952c",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1092"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4fec1b73f631d82b",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1101"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-043821cd77b543a5",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #43"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6fd1531c68ca07c6",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #42"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-86e0357fbb32f38e",
+    "potential_duplicates": [],
+    "title": "Mixing Time of Kac's Walk on the Rotation Group"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-516730b052210888",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #896"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ae707e1fef09da24",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #888"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3e81bc95336f9610",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #38"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e94c3e53d3857843",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1138"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7805a4c6beb47d08",
+    "potential_duplicates": [],
+    "title": "Optimal Strategies in the All-Heads Coin Game"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e05a5cdf64d7510f",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #330"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c2e168958fe5221d",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1014"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8720f5134be19760",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1190"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-80e5227d9698c22f",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #202"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-30eb9cc1ac60b188",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #863"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e64bfb6c9f848be7",
+    "potential_duplicates": [],
+    "title": "Parity obstruction in the minimum-determinant problem for Latin squares"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-75c0a96f01a56475",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #610"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3fcde35f850be458",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #603"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fb132fcbf2953da0",
+    "potential_duplicates": [],
+    "title": "Sharp Convergence Rates for Viscous Hamilton-Jacobi Homogenization"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6c1a1edf5bcb19f4",
+    "potential_duplicates": [],
+    "title": "Density Thresholds for Large Dilates of Point Configurations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-83183e1786a058ef",
+    "potential_duplicates": [],
+    "title": "Nathanson's Problems on Product Intersection Sets"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e429072b0d1332a2",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1195"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-55f1bac3f8a8905c",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #670: Diameter with Separated Distances"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5795eff298537602",
+    "potential_duplicates": [],
+    "title": "Wickstead's Conjecture on Positive Projections"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ddcbc4079a89ec81",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #741"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7c5532ec960e3a5e",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1217"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e0c20e8e93025e33",
+    "potential_duplicates": [],
+    "title": "Avidor-Zwick Question on Low-Dimensional Max-Cut SDP"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b6e2c0a2e7d28cd3",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #858"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0af397e1e3e31780",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #258"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-eec990c97efd9855",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #990"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b7a1d761b28b2c69",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #987"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-54fcc8bd9244031e",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #960"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4d39898f5243a3c7",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1091"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2c29d1dedb29a042",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1141"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6f1ebc1d19158197",
+    "potential_duplicates": [],
+    "title": "Exhaustive AdaBoost Cycling Question"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-931a921ef14d2006",
+    "potential_duplicates": [],
+    "title": "Thiele Rules on the Voter Interval Domain"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f474087cb331e58e",
+    "potential_duplicates": [],
+    "title": "Equality in Fill's Spectral Gap Problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-61c4047e2752167e",
+    "potential_duplicates": [],
+    "title": "Anderson's Quasi-Completeness Question"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-64d5a1ac211be31c",
+    "potential_duplicates": [],
+    "title": "Last-Iterate Rate for Anchored Gradient Descent-Ascent"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0166b5991dbe43a7",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #152"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-75de984433fcf15e",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1202"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-db09aa34ef70071e",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1196: Primitive Sets"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2a46b6518da79012",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #514"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8c3833965721a7cc",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #997"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d7a4a46f6256aa09",
+    "potential_duplicates": [],
+    "title": "Counting Partial Hadamard Matrices in the Cubic Regime"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-372ade6f1760192b",
+    "potential_duplicates": [],
+    "title": "Sárközy's Conjecture on Sums and Products Modulo a Prime"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-190d4a5c22c4a364",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #380"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a5a871e409b64a08",
+    "potential_duplicates": [],
+    "title": "Improved Approximation Ratios for Multiway Cut"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3664bfee301fb09a",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #125"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a1203e8f29f35b9d",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #369"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-51fd56c6bd9ea1e0",
+    "potential_duplicates": [],
+    "title": "The Lattice Triangle Problem in the Hard Obtuse Window"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ad4bbce7e66c17ae",
+    "potential_duplicates": [],
+    "title": "Hamilton Decompositions of the Directed 3-Torus"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-eea5ca8e143afd31",
+    "potential_duplicates": [],
+    "title": "Ramsey-Style Hypergraph Partition Bound H(n)"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0b17442c871a68da",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1153"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b2da92f7d7b16f32",
+    "potential_duplicates": [],
+    "title": "Lower Bounds for Lebesgue Constants and an Erdős-Turán Interpolation Problem"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fdaabc129b5f356f",
+    "potential_duplicates": [],
+    "title": "Simplicity of the Hodge Bundle"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d418606f4437081a",
+    "potential_duplicates": [],
+    "title": "Manin's Question on R-Equivalence for the Diagonal Cubic"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7612e866fd2cc3ff",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1148"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-37428e61d28dfe9d",
+    "potential_duplicates": [],
+    "title": "Equilibria of the Vlasov-Maxwell-Landau System"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-297d3b3e99b8951e",
+    "potential_duplicates": [],
+    "title": "Pach's Tangency Conjecture: Improved Bounds"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d24c5209b0cbd972",
+    "potential_duplicates": [],
+    "title": "Kissing Number in 19 Dimensions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d6d3cab62b93d594",
+    "potential_duplicates": [],
+    "title": "Nine Ramsey Number Lower-Bound Records"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5e2695df6cad4681",
+    "potential_duplicates": [],
+    "title": "Transposition is Nearly Optimal for IID List Update"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6948c6085505e1e6",
+    "potential_duplicates": [],
+    "title": "A 24-Vertex Triangulation of Real Projective 5-Space"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a12acce033bed7ca",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #650"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-70e2a97f726d66ae",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #457"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0c8bce191b0793a4",
+    "potential_duplicates": [],
+    "title": "Uniform Witnesses for Uniform Set Systems: the k=3 Question"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fd59349659ed034d",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #966"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5852fc6894ca4634",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #846"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8213ce3a50875b26",
+    "potential_duplicates": [],
+    "title": "Ran-Teng Conjecture 20 on 4-Cycle Stochastic Matrices"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2c80b710ebd07aba",
+    "potential_duplicates": [],
+    "title": "The Leading Constant for Large-Order Davenport-Schinzel Sequences"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-69b6c87bfb8376b4",
+    "potential_duplicates": [],
+    "title": "Single-Minus Gluon Tree Amplitudes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3f171754d76ed8d0",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #851"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d6afa179fa409fbd",
+    "potential_duplicates": [],
+    "title": "Almost All Primes are Partially Regular"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c5cee0b6478a5758",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #347"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7f79e89202857e48",
+    "potential_duplicates": [],
+    "title": "Chen-Gendron Spin-Parity Identity for k-Differentials"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b0106efc5402a3e4",
+    "potential_duplicates": [],
+    "title": "Fel's Conjecture on Syzygies of Numerical Semigroups"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6d5074a19ecb13e3",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1089"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e248cff2411375b6",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1040"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-627034555c96e0ba",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1051"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b8a69e2be1eb42eb",
+    "potential_duplicates": [],
+    "title": "A Generalization of Boppana's Entropy Inequality"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-183259214b570fc3",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #543"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7962e115b21140c4",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #281"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-09a9ba2ba973da4a",
+    "potential_duplicates": [],
+    "title": "Courtade and Kumar's Coordinate-wise Mutual Information Question"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2611458d6ae3afdc",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #659"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-81dec8152971fe8a",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #401"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5130f25579bb3a0a",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #729"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cdc86069702e0eb4",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #205"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-4d24b6fa725c4297",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #397"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c480a474b7c44414",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #728: Factorial Divisibility"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3087d42f28750568",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #871"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-139e8bf9c771baf3",
+    "potential_duplicates": [],
+    "title": "Large Hypercube Intervals in Bruhat Order"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a6ecc6ec811f1afa",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #897"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6120f22b249e0d47",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #333"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-228009c1f026e1e8",
+    "potential_duplicates": [],
+    "title": "Erdős-Herzog-Piranian Distance Products: Improved Lower Bound"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7896f0114725ab11",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #1026: Monotonic Subsequence Sums"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-24a0dde7d58f65df",
+    "potential_duplicates": [],
+    "title": "The Lonely Runner Conjecture for Nine and Ten Runners"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1fad38871a95768b",
+    "potential_duplicates": [],
+    "title": "Minimax Rate for Density Estimation under Wasserstein Contamination"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-1c1aa1c15a4017f0",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #848"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-eeadde9a9ee79ac0",
+    "potential_duplicates": [],
+    "title": "Sum-Difference Exponents for Boundedly Many Slopes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ae20c87341506de2",
+    "potential_duplicates": [],
+    "title": "Point Convergence of Nesterov's Accelerated Gradient Method"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-71e392828b908319",
+    "potential_duplicates": [],
+    "title": "Curto et al.'s Minimality Conjecture for Threshold-Linear Networks"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bd9246458323d766",
+    "potential_duplicates": [],
+    "title": "Erdős Problem #707: Sidon Sets and Perfect Difference Sets"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ea02d95bab9ad0f0",
+    "potential_duplicates": [],
+    "title": "Cohen's 22 Conjectures on Cyclic Numbers"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-5788c6d1c38ff8da",
+    "potential_duplicates": [],
+    "title": "Babai and Frankl's Oddtown Question for Composite Moduli"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-7232083d47fa75bb",
+    "potential_duplicates": [],
+    "title": "Vertex-Minimal Paper Tori"
   }
 ]

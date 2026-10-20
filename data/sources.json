@@ -9,7 +9,8 @@
       "retracted"
     ],
     "enabled": true,
-    "coverage_note": "Issues-label adapter only; structured feed adapter pending."
+    "coverage_note": "Issues-label adapter only; structured feed adapter pending.",
+    "adapter": "vibemath_feed"
   },
   {
     "repo": "bonninr/awesome-ai-solved-math",
