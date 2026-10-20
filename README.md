@@ -54,17 +54,6 @@ Notices are publicly accessible and unreviewed. Their publication does not estab
 
 Researchers are not required to disclose confidential or unpublished materials.
 
-## Submit a Research Notice
-
-Visit [GitHub Discussions](../../discussions) and select the appropriate category.
-
-- **Research Notices:** Prior work, parallel research, and attribution concerns.
-- **Solution & Progress Reports:** New mathematical research reports and source links.
-- **Corrections & Responses:** Corrections, clarifications, and responses.
-- **General Discussion:** Other discussion about the project.
-
-Contributors are responsible for the content they publish. Please do not disclose confidential research, private correspondence, or third-party personal information.
-
 ## Automation and Transparency
 
 OMP uses GitHub Actions and source-specific adapters to collect publicly accessible research records.
@@ -74,6 +63,23 @@ The index is generated from structured metadata and source links.
 The automated system does not determine whether a mathematical proof is correct.
 
 For more information, see [Methodology](METHODOLOGY.md).
+
+## Submit Research
+
+**No coding or Git commands required.**
+
+[**Submission Guide**](docs/SUBMISSION_GUIDE.md) |
+[**Submit a Problem or Paper**](https://github.com/tnflas/open-math-progress/issues/new/choose) |
+[**Public Research Notices**](https://github.com/tnflas/open-math-progress/discussions)
+
+- **Issues:** Register new problems and submit research contributions.
+- **Discussions:** Prior research, attribution statements, and responses.
+
+[Community Problems](docs/COMMUNITY_PROBLEMS.md) |
+[Community Contributions](docs/COMMUNITY_SUBMISSIONS.md)
+
+All submissions are source-reported or contributor-submitted.
+OMP does not independently certify mathematical results or priority.
 
 ## Contributing
 
@@ -103,22 +109,3 @@ The repository does not certify mathematical solutions or adjudicate scholarly d
 - [Contributing](CONTRIBUTING.md)
 - [Data and Licensing](DATA_LICENSE.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
-
-## Community Research Contributions
-
-Researchers may submit multiple independent contributions to the same mathematical problem.
-
-- [Community Contributions](docs/COMMUNITY_CONTRIBUTIONS.md)
-- [Contribution Structure](docs/CONTRIBUTION_STRUCTURE.md)
-
-
-## Submit Research — No Coding Required
-
-- [Register a New Mathematical Problem](../../issues/new/choose)
-- [Submit a Research Contribution](../../issues/new/choose)
-- [Web Submission Guide](docs/WEB_SUBMISSION_GUIDE.md)
-- [Community Problems](docs/COMMUNITY_PROBLEMS.md)
-- [Community Submissions](docs/COMMUNITY_SUBMISSIONS.md)
-
-Submissions are public and unreviewed. Inclusion does not establish
-mathematical correctness, scientific priority, or ownership.
