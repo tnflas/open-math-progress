@@ -1,0 +1,39 @@
+title: "[Research Notice] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Public, unreviewed statement.
+        This repository does not establish scientific priority.
+        Do not share confidential or private information.
+
+  - type: input
+    id: problem
+    attributes:
+      label: Problem ID or Source URL
+    validations:
+      required: true
+
+  - type: dropdown
+    id: notice_type
+    attributes:
+      label: Notice Type
+      options:
+        - Prior published research
+        - Independent or parallel research
+        - Attribution concern
+        - Correction or response
+    validations:
+      required: true
+
+  - type: textarea
+    id: statement
+    attributes:
+      label: Research Contribution or Concern
+    validations:
+      required: true
+
+  - type: textarea
+    id: references
+    attributes:
+      label: Supporting Public References

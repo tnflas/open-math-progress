@@ -1,0 +1,40 @@
+title: "[Progress Report] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit a source-linked research report.
+        Inclusion does not imply mathematical verification.
+
+  - type: input
+    id: problem
+    attributes:
+      label: Mathematical Problem
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Original Research URL
+    validations:
+      required: true
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: Source-Reported Status
+      options:
+        - Claimed solved
+        - Partial progress
+        - Open
+        - Disputed or retracted
+
+  - type: dropdown
+    id: ai
+    attributes:
+      label: AI Involvement
+      options:
+        - AI-assisted
+        - No AI involvement reported
+        - Unknown

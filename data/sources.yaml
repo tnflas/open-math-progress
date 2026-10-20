@@ -1,0 +1,16 @@
+sources:
+  - repo: cyanseek/VibeMath
+    enabled: true
+    type: structured_feed
+
+  - repo: bonninr/awesome-ai-solved-math
+    enabled: true
+    type: curated_list
+
+  - repo: MColbrook/AIM
+    enabled: true
+    type: research_problems
+
+  - repo: openai/math
+    enabled: true
+    type: research_reports
