@@ -92,3 +92,14 @@ The repository does not certify mathematical solutions or adjudicate scholarly d
 ---
 
 *Open Math Progress — making mathematical research progress discoverable, traceable, and open to discussion.*
+
+<!-- OMP-DOCUMENTATION-LINKS -->
+## Documentation
+
+- [Research Methodology](METHODOLOGY.md)
+- [Source Coverage](docs/SOURCE_COVERAGE.md)
+- [Research Ethics and Academic Credit](RESEARCH_ETHICS.md)
+- [Submission Guide](docs/SUBMISSION_GUIDE.md)
+- [Contributing](CONTRIBUTING.md)
+- [Data and Licensing](DATA_LICENSE.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)

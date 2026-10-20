@@ -1,10 +1,20 @@
-# Source coverage and limitations
+# Source Coverage
 
-This index records **source-reported claims**, not independently verified mathematical facts.
+This page describes the current local source configuration.
+It does not certify that every adapter has successfully collected data.
 
-- `bonninr/awesome-ai-solved-math`: README index, explicit outcome markers only. Item-level AI involvement remains unknown without direct evidence.
-- `MColbrook/AIM`: resolved-list table only, separating source-designated solved from claimed/under-review entries. Review is not performed by OMP.
-- `cyanseek/VibeMath`: GitHub Issues with explicit status labels only; its full machine-readable feed is **not yet indexed**.
-- `openai/math`: **not automatically indexed yet**. The manuscript directory does not prove every listed problem has been solved.
+| Repository | Configured mode | Enabled | Notes |
+|---|---|---|---|
+| `cyanseek/VibeMath` | `vibemath_feed` | Yes | Inspect the deployed adapter for actual Feed support. |
+| `bonninr/awesome-ai-solved-math` | `readme_index` | Yes | Coverage depends on the active adapter and source format. |
+| `MColbrook/AIM` | `aim_resolved` | Yes | AIM status and result scope require source-specific interpretation. |
+| `openai/math` | `issues` | No | A manuscript catalogue is not automatically a solved-problem catalogue. |
 
-A zero-result sync does not establish that a source has no research progress. Fragment-bearing URLs are preserved for future imports. Previously stripped fragments cannot be reconstructed reliably; pre-upgrade records have not been silently rewritten or deleted.
+## Important Limitations
+
+- An enabled source can produce zero imported records.
+- The source adapter may index only a subset of the repository.
+- Counts of claims do not equal counts of distinct solved problems.
+- OMP does not verify mathematics or scientific priority.
+
+See [Methodology](../METHODOLOGY.md).
