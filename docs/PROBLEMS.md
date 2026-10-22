@@ -9,6 +9,7 @@ it is not the mathematical problem's original publication date.
 
 | Time (UTC) | Type | Problem ID | Mathematical problem | Record |
 |---|---|---|---|---|
+| 2026-10-22 08:38:59 | First indexed | `OMP-31e2c532d2b92ba9` | Local no-slip Navier–Stokes theory under non-small transport noise | Indexed record |
 | 2026-10-20 10:25:07 | Submitted | `OMP-U-4` | Pula's Near 1-Weight Existence Problem | [Problem page](../problems/community/omp-u-4/README.md) |
 | 2026-10-20 10:24:07 | Submitted | `OMP-U-3` | Pula's Odd-Weight Characterization Problem | [Problem page](../problems/community/omp-u-3/README.md) |
 | 2026-10-20 09:26:47 | Submitted | `OMP-U-1` | Ryser's Conjecture | [Problem page](../problems/community/omp-u-1/README.md) |
