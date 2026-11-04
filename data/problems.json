@@ -5402,5 +5402,155 @@
     "id": "OMP-31e2c532d2b92ba9",
     "potential_duplicates": [],
     "title": "Local no-slip Navier–Stokes theory under non-small transport noise"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-60d4e8dce43c6dfe",
+    "potential_duplicates": [],
+    "title": "The bulk ground-state energy of the planar Lennard–Jones system"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-c97fd6602749f6fb",
+    "potential_duplicates": [],
+    "title": "Simon’s multidimensional weighted square-integrability conjecture"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ddb16ebcdc5a25ef",
+    "potential_duplicates": [],
+    "title": "Quadratic-growth rigidity for the complex Monge–Ampère equation"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-87dc7d8322b4a407",
+    "potential_duplicates": [],
+    "title": "Radial classification of higher-degree entire planar Ginzburg–Landau vortices"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e766b7562c715031",
+    "potential_duplicates": [],
+    "title": "Interior bounds for stable elliptic states with sign-changing reaction laws"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-fd6c46868c28f975",
+    "potential_duplicates": [],
+    "title": "Perfect Lee codes beyond dimension two"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e70ae30b7417715e",
+    "potential_duplicates": [],
+    "title": "Can a Heisenberg surface be more than one-half Hölder?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-24ecd7d8ca4b621f",
+    "potential_duplicates": [],
+    "title": "Pedersen's sharp fractional-power commutator inequality"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-75f7cc45a4044789",
+    "potential_duplicates": [],
+    "title": "A universal Lipschitz bound for the canonical affine projection"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-39ec27f2d8602a44",
+    "potential_duplicates": [],
+    "title": "Finite-dimensional detection of almost-periodic Banach cocycles"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e71cd996aa71bddd",
+    "potential_duplicates": [],
+    "title": "Does Lipschitz affine approximation determine the exact martingale cotype?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3ad5473c2ccd747e",
+    "potential_duplicates": [],
+    "title": "Split products for time-dependent form-sum Schrödinger evolution"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-84041b663c31f2a6",
+    "potential_duplicates": [],
+    "title": "Invariant subspaces under complexification of real operators"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-22edded645376665",
+    "potential_duplicates": [],
+    "title": "Generic backward uniqueness for linear retarded equations"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-6f9d6c5d2d56a1f9",
+    "potential_duplicates": [],
+    "title": "Does the closed completely positive cone generate the energy-constrained completion?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-83885e3a417f36b0",
+    "potential_duplicates": [],
+    "title": "The numerical index of real Lebesgue spaces"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-d33f7f8464704082",
+    "potential_duplicates": [],
+    "title": "Embedded eigenvalues in asymptotically flat twisted strips"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a759655b8762a4fa",
+    "potential_duplicates": [],
+    "title": "Spectral lower bounds from multi-set concentration"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-a294901af66d620b",
+    "potential_duplicates": [],
+    "title": "Can spectral type vary within a limit-periodic Schrödinger hull?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-8a377df740bfb97c",
+    "potential_duplicates": [],
+    "title": "Must limit-periodic discrete Schrödinger operators have pure spectral type?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-b207487ceb2ed034",
+    "potential_duplicates": [],
+    "title": "Can intersection complexity be separated from eigenvalue growth?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bf6279b23cc2d79a",
+    "potential_duplicates": [],
+    "title": "Steklov zeros in a fixed boundary collar"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-da139d68916919c9",
+    "potential_duplicates": [],
+    "title": "Are non-Cantor spectra dense among nonperiodic limit-periodic potentials?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-cff525d9610b200d",
+    "potential_duplicates": [],
+    "title": "The spectral tree for high-order Heun operators"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-79748be5c976ff0c",
+    "potential_duplicates": [],
+    "title": "Do matrix local-mass bounds imply Stahl–Totik regularity?"
   }
 ]

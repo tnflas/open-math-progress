@@ -9,6 +9,31 @@ it is not the mathematical problem's original publication date.
 
 | Time (UTC) | Type | Problem ID | Mathematical problem | Record |
 |---|---|---|---|---|
+| 2026-11-04 10:58:17 | First indexed | `OMP-fd6c46868c28f975` | Perfect Lee codes beyond dimension two | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-e766b7562c715031` | Interior bounds for stable elliptic states with sign-changing reaction laws | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-e71cd996aa71bddd` | Does Lipschitz affine approximation determine the exact martingale cotype? | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-e70ae30b7417715e` | Can a Heisenberg surface be more than one-half Hölder? | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-ddb16ebcdc5a25ef` | Quadratic-growth rigidity for the complex Monge–Ampère equation | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-da139d68916919c9` | Are non-Cantor spectra dense among nonperiodic limit-periodic potentials? | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-d33f7f8464704082` | Embedded eigenvalues in asymptotically flat twisted strips | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-cff525d9610b200d` | The spectral tree for high-order Heun operators | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-c97fd6602749f6fb` | Simon’s multidimensional weighted square-integrability conjecture | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-bf6279b23cc2d79a` | Steklov zeros in a fixed boundary collar | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-b207487ceb2ed034` | Can intersection complexity be separated from eigenvalue growth? | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-a759655b8762a4fa` | Spectral lower bounds from multi-set concentration | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-a294901af66d620b` | Can spectral type vary within a limit-periodic Schrödinger hull? | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-8a377df740bfb97c` | Must limit-periodic discrete Schrödinger operators have pure spectral type? | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-87dc7d8322b4a407` | Radial classification of higher-degree entire planar Ginzburg–Landau vortices | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-84041b663c31f2a6` | Invariant subspaces under complexification of real operators | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-83885e3a417f36b0` | The numerical index of real Lebesgue spaces | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-79748be5c976ff0c` | Do matrix local-mass bounds imply Stahl–Totik regularity? | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-75f7cc45a4044789` | A universal Lipschitz bound for the canonical affine projection | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-6f9d6c5d2d56a1f9` | Does the closed completely positive cone generate the energy-constrained completion? | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-60d4e8dce43c6dfe` | The bulk ground-state energy of the planar Lennard–Jones system | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-3ad5473c2ccd747e` | Split products for time-dependent form-sum Schrödinger evolution | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-39ec27f2d8602a44` | Finite-dimensional detection of almost-periodic Banach cocycles | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-24ecd7d8ca4b621f` | Pedersen's sharp fractional-power commutator inequality | Indexed record |
+| 2026-11-04 10:58:17 | First indexed | `OMP-22edded645376665` | Generic backward uniqueness for linear retarded equations | Indexed record |
 | 2026-10-22 08:38:59 | First indexed | `OMP-31e2c532d2b92ba9` | Local no-slip Navier–Stokes theory under non-small transport noise | Indexed record |
 | 2026-10-20 10:25:07 | Submitted | `OMP-U-4` | Pula's Near 1-Weight Existence Problem | [Problem page](../problems/community/omp-u-4/README.md) |
 | 2026-10-20 10:24:07 | Submitted | `OMP-U-3` | Pula's Odd-Weight Characterization Problem | [Problem page](../problems/community/omp-u-3/README.md) |
