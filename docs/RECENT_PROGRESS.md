@@ -6,6 +6,9 @@ mathematical verification or a publication event.
 
 | Event time (UTC) | Event | Problem or contribution | Status | Source |
 |---|---|---|---|---|
+| 2026-11-05 10:58:19 | External status observation | Does discontinuous information help randomized approximation? | claimed_solved | [Original](<https://github.com/MColbrook/AIM/blob/main/problems/569-does-discontinuous-information-help-randomized-approximation.md>) |
+| 2026-11-05 10:58:19 | External status observation | Can adaptive Monte Carlo approximate a noncompact operator? | claimed_solved | [Original](<https://github.com/MColbrook/AIM/blob/main/problems/523-can-adaptive-monte-carlo-approximate-a-noncompact-operator.md>) |
+| 2026-11-05 10:58:19 | External status observation | A linear information bound for arbitrary convex model classes | claimed_solved | [Original](<https://github.com/MColbrook/AIM/blob/main/problems/568-a-linear-information-bound-for-arbitrary-convex-model-classes.md>) |
 | 2026-11-04 10:58:17 | External status observation | Perfect Lee codes beyond dimension two | claimed_solved | [Original](<https://github.com/MColbrook/AIM/blob/main/problems/567-golomb-welch.md>) |
 | 2026-11-04 10:58:17 | External status observation | Interior bounds for stable elliptic states with sign-changing reaction laws | claimed_solved | [Original](<https://github.com/MColbrook/AIM/blob/main/problems/439-stable-semilinear-sign-changing-interior-bound.md>) |
 | 2026-11-04 10:58:17 | External status observation | Does Lipschitz affine approximation determine the exact martingale cotype? | claimed_solved | [Original](<https://github.com/MColbrook/AIM/blob/main/problems/905-does-lipschitz-affine-approximation-determine-the-exact-martingale-cotype.md>) |
@@ -103,6 +106,3 @@ mathematical verification or a publication event.
 | 2026-10-20 08:42:28 | External status observation | Stanley's Claw-Free Schur-Positivity Conjecture | claimed_solved | [Original](<https://vibemathed.com/problem/stanley-claw-free-schur-positivity>) |
 | 2026-10-20 08:42:28 | External status observation | Erdős Problem #1195 | claimed_solved | [Original](<https://vibemathed.com/problem/erdos-1195>) |
 | 2026-10-20 08:42:28 | External status observation | Sparse domination implies convex body domination | claimed_solved | [Original](<https://vibemathed.com/problem/sparse-domination-implies-convex-body-domination>) |
-| 2026-10-20 08:42:28 | External status observation | The da Silva Machado-Seade Conjecture | claimed_solved | [Original](<https://vibemathed.com/problem/da-silva-machado-seade-conjecture>) |
-| 2026-10-20 08:42:28 | External status observation | Erdős's Planar Unit Distance Conjecture | claimed_solved | [Original](<https://vibemathed.com/problem/erdos-planar-unit-distance>) |
-| 2026-10-20 08:42:28 | External status observation | Erdős Problem #1040 | partial_progress | [Original](<https://vibemathed.com/problem/erdos-1040>) |

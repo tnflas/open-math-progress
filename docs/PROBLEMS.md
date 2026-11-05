@@ -9,6 +9,9 @@ it is not the mathematical problem's original publication date.
 
 | Time (UTC) | Type | Problem ID | Mathematical problem | Record |
 |---|---|---|---|---|
+| 2026-11-05 10:58:19 | First indexed | `OMP-ee90f719eff502f1` | Does discontinuous information help randomized approximation? | Indexed record |
+| 2026-11-05 10:58:19 | First indexed | `OMP-bfe39c9a80bc07f0` | Can adaptive Monte Carlo approximate a noncompact operator? | Indexed record |
+| 2026-11-05 10:58:19 | First indexed | `OMP-39137c3bd6893976` | A linear information bound for arbitrary convex model classes | Indexed record |
 | 2026-11-04 10:58:17 | First indexed | `OMP-fd6c46868c28f975` | Perfect Lee codes beyond dimension two | Indexed record |
 | 2026-11-04 10:58:17 | First indexed | `OMP-e766b7562c715031` | Interior bounds for stable elliptic states with sign-changing reaction laws | Indexed record |
 | 2026-11-04 10:58:17 | First indexed | `OMP-e71cd996aa71bddd` | Does Lipschitz affine approximation determine the exact martingale cotype? | Indexed record |

@@ -5552,5 +5552,23 @@
     "id": "OMP-79748be5c976ff0c",
     "potential_duplicates": [],
     "title": "Do matrix local-mass bounds imply Stahl–Totik regularity?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-bfe39c9a80bc07f0",
+    "potential_duplicates": [],
+    "title": "Can adaptive Monte Carlo approximate a noncompact operator?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-39137c3bd6893976",
+    "potential_duplicates": [],
+    "title": "A linear information bound for arbitrary convex model classes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ee90f719eff502f1",
+    "potential_duplicates": [],
+    "title": "Does discontinuous information help randomized approximation?"
   }
 ]
