@@ -6,6 +6,8 @@ mathematical verification or a publication event.
 
 | Event time (UTC) | Event | Problem or contribution | Status | Source |
 |---|---|---|---|---|
+| 2026-11-07 10:13:23 | External status observation | Global conductivity uniqueness for the p-Laplacian in higher dimensions | claimed_solved | [Original](<https://github.com/MColbrook/AIM/blob/main/problems/049-nonlinear-p-calderon.md>) |
+| 2026-11-07 10:13:23 | External status observation | Can neighboring water-wave Bloch bands overlap? | claimed_solved | [Original](<https://github.com/MColbrook/AIM/blob/main/problems/1048-can-neighboring-water-wave-bloch-bands-overlap.md>) |
 | 2026-11-05 10:58:19 | External status observation | Does discontinuous information help randomized approximation? | claimed_solved | [Original](<https://github.com/MColbrook/AIM/blob/main/problems/569-does-discontinuous-information-help-randomized-approximation.md>) |
 | 2026-11-05 10:58:19 | External status observation | Can adaptive Monte Carlo approximate a noncompact operator? | claimed_solved | [Original](<https://github.com/MColbrook/AIM/blob/main/problems/523-can-adaptive-monte-carlo-approximate-a-noncompact-operator.md>) |
 | 2026-11-05 10:58:19 | External status observation | A linear information bound for arbitrary convex model classes | claimed_solved | [Original](<https://github.com/MColbrook/AIM/blob/main/problems/568-a-linear-information-bound-for-arbitrary-convex-model-classes.md>) |
@@ -104,5 +106,3 @@ mathematical verification or a publication event.
 | 2026-10-20 08:42:28 | External status observation | Parity obstruction in the minimum-determinant problem for Latin squares | partial_progress | [Original](<https://vibemathed.com/problem/parity-obstruction-in-the-minimum-determinant-problem-for-latin-squares-2>) |
 | 2026-10-20 08:42:28 | External status observation | Graffiti Conjecture 806 | claimed_solved | [Original](<https://vibemathed.com/problem/graffiti-conjecture-806>) |
 | 2026-10-20 08:42:28 | External status observation | Stanley's Claw-Free Schur-Positivity Conjecture | claimed_solved | [Original](<https://vibemathed.com/problem/stanley-claw-free-schur-positivity>) |
-| 2026-10-20 08:42:28 | External status observation | Erdős Problem #1195 | claimed_solved | [Original](<https://vibemathed.com/problem/erdos-1195>) |
-| 2026-10-20 08:42:28 | External status observation | Sparse domination implies convex body domination | claimed_solved | [Original](<https://vibemathed.com/problem/sparse-domination-implies-convex-body-domination>) |

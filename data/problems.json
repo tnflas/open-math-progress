@@ -5570,5 +5570,17 @@
     "id": "OMP-ee90f719eff502f1",
     "potential_duplicates": [],
     "title": "Does discontinuous information help randomized approximation?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-ff089dbf7dc2080e",
+    "potential_duplicates": [],
+    "title": "Global conductivity uniqueness for the p-Laplacian in higher dimensions"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-08f7539e05cd097e",
+    "potential_duplicates": [],
+    "title": "Can neighboring water-wave Bloch bands overlap?"
   }
 ]

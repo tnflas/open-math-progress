@@ -9,6 +9,8 @@ it is not the mathematical problem's original publication date.
 
 | Time (UTC) | Type | Problem ID | Mathematical problem | Record |
 |---|---|---|---|---|
+| 2026-11-07 10:13:23 | First indexed | `OMP-ff089dbf7dc2080e` | Global conductivity uniqueness for the p-Laplacian in higher dimensions | Indexed record |
+| 2026-11-07 10:13:23 | First indexed | `OMP-08f7539e05cd097e` | Can neighboring water-wave Bloch bands overlap? | Indexed record |
 | 2026-11-05 10:58:19 | First indexed | `OMP-ee90f719eff502f1` | Does discontinuous information help randomized approximation? | Indexed record |
 | 2026-11-05 10:58:19 | First indexed | `OMP-bfe39c9a80bc07f0` | Can adaptive Monte Carlo approximate a noncompact operator? | Indexed record |
 | 2026-11-05 10:58:19 | First indexed | `OMP-39137c3bd6893976` | A linear information bound for arbitrary convex model classes | Indexed record |
