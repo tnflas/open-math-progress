@@ -5582,5 +5582,65 @@
     "id": "OMP-08f7539e05cd097e",
     "potential_duplicates": [],
     "title": "Can neighboring water-wave Bloch bands overlap?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-0e79b939127f7497",
+    "potential_duplicates": [],
+    "title": "Does metric completion preserve minimal Sobolev gradients?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-169791c8ef0133a2",
+    "potential_duplicates": [],
+    "title": "Cluster values on the complex $`\\ell_p`$ ball"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-72f3f48de2f578c9",
+    "potential_duplicates": [],
+    "title": "The square-root factorial multiplier sequence"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e1800e6587d3b659",
+    "potential_duplicates": [],
+    "title": "A sharp affine-modulus bound for harmonic homeomorphisms"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-3bd0cab279873d76",
+    "potential_duplicates": [],
+    "title": "A Smirnov function without a Hilbert-domain holomorphic extension"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-f6894cdfadc0aa67",
+    "potential_duplicates": [],
+    "title": "Finite-time singularities of the Chern–Ricci flow"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-2c890d20918aea4d",
+    "potential_duplicates": [],
+    "title": "Smooth Chern–Ricci collapse on non-Kähler elliptic bundles"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e606c82518a7545f",
+    "potential_duplicates": [],
+    "title": "Real C¹,¹ regularity of complex Hessian obstacle envelopes"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-482ccf9789be7a24",
+    "potential_duplicates": [],
+    "title": "Is polynomial local mass almost necessary for regular orthogonal polynomials?"
+  },
+  {
+    "canonical_status": "not_assessed",
+    "id": "OMP-e04feedc33991309",
+    "potential_duplicates": [],
+    "title": "Do continuous polynomial roots have weak endpoint derivative regularity?"
   }
 ]

@@ -9,6 +9,16 @@ it is not the mathematical problem's original publication date.
 
 | Time (UTC) | Type | Problem ID | Mathematical problem | Record |
 |---|---|---|---|---|
+| 2026-11-08 10:25:09 | First indexed | `OMP-f6894cdfadc0aa67` | Finite-time singularities of the Chern–Ricci flow | Indexed record |
+| 2026-11-08 10:25:09 | First indexed | `OMP-e606c82518a7545f` | Real C¹,¹ regularity of complex Hessian obstacle envelopes | Indexed record |
+| 2026-11-08 10:25:09 | First indexed | `OMP-e1800e6587d3b659` | A sharp affine-modulus bound for harmonic homeomorphisms | Indexed record |
+| 2026-11-08 10:25:09 | First indexed | `OMP-e04feedc33991309` | Do continuous polynomial roots have weak endpoint derivative regularity? | Indexed record |
+| 2026-11-08 10:25:09 | First indexed | `OMP-72f3f48de2f578c9` | The square-root factorial multiplier sequence | Indexed record |
+| 2026-11-08 10:25:09 | First indexed | `OMP-482ccf9789be7a24` | Is polynomial local mass almost necessary for regular orthogonal polynomials? | Indexed record |
+| 2026-11-08 10:25:09 | First indexed | `OMP-3bd0cab279873d76` | A Smirnov function without a Hilbert-domain holomorphic extension | Indexed record |
+| 2026-11-08 10:25:09 | First indexed | `OMP-2c890d20918aea4d` | Smooth Chern–Ricci collapse on non-Kähler elliptic bundles | Indexed record |
+| 2026-11-08 10:25:09 | First indexed | `OMP-169791c8ef0133a2` | Cluster values on the complex $`\ell_p`$ ball | Indexed record |
+| 2026-11-08 10:25:09 | First indexed | `OMP-0e79b939127f7497` | Does metric completion preserve minimal Sobolev gradients? | Indexed record |
 | 2026-11-07 10:13:23 | First indexed | `OMP-ff089dbf7dc2080e` | Global conductivity uniqueness for the p-Laplacian in higher dimensions | Indexed record |
 | 2026-11-07 10:13:23 | First indexed | `OMP-08f7539e05cd097e` | Can neighboring water-wave Bloch bands overlap? | Indexed record |
 | 2026-11-05 10:58:19 | First indexed | `OMP-ee90f719eff502f1` | Does discontinuous information help randomized approximation? | Indexed record |
